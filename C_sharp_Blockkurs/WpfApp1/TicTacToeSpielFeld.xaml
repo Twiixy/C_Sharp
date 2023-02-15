@@ -10,8 +10,8 @@
         <TextBlock HorizontalAlignment="Left" FontSize="20" Margin="10,18,0,0" Text="Aktueller Schwierigkeitsgrad:" TextWrapping="Wrap" VerticalAlignment="Top" Width="385" Height="44" />
         <Label x:Name="schwierigkeitsgradLabel"  FontSize="20" Content="test&#xD;&#xA;" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="132" Height="54" Margin="280,13,0,0"/>
         <TextBlock HorizontalAlignment="Left" FontSize="20" Margin="679,10,0,0" Text="Spielstand" TextWrapping="Wrap" VerticalAlignment="Top"/>
-        <Label x:Name="UserScoreLabel" Content="X" FontSize="20" Foreground="Green" HorizontalAlignment="Left" Margin="685,42,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="ComputerScoreLabel" Content="O" HorizontalAlignment="Left" FontSize="20" Foreground="Red"  Margin="745,42,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="UserScoreLabel" Content="X" FontSize="20" Foreground="Red" HorizontalAlignment="Left" Margin="685,42,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="ComputerScoreLabel" Content="O" HorizontalAlignment="Left" FontSize="20" Foreground="Green"  Margin="745,42,0,0" VerticalAlignment="Top"/>
         <Label Content="-" HorizontalAlignment="Left" FontSize="20" Margin="715,40,0,0" VerticalAlignment="Top"/>
         <Button x:Name="btn0" Content="" HorizontalAlignment="Left" Margin="200,120,0,0" VerticalAlignment="Top" Height="75" Width="75" Click="Button_Click"/>
         <Button x:Name="btn1" Content="" HorizontalAlignment="Left" Margin="300,120,0,0" VerticalAlignment="Top" Height="75" Width="76" Click="Button_Click_1"/>

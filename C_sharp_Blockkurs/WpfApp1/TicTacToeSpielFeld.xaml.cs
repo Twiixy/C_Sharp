@@ -92,6 +92,7 @@ namespace WpfApp1
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             btn0.Content = currenPlayer;
+            btn0.Foreground = new SolidColorBrush(Colors.Red);
             spielfeld[0][0] = 'X';
             size--;
             btn0.IsEnabled = false;
@@ -108,6 +109,7 @@ namespace WpfApp1
                     int[] pos = computerTurn.GetNextZug(difficultie + 1, spielfeld);
                     buttonArray[pos[0] - 1, pos[1] - 1].Content = "O";
                     buttonArray[pos[0] - 1, pos[1] - 1].IsEnabled = false;
+                    buttonArray[pos[0] - 1, pos[1] - 1].Foreground = new SolidColorBrush(Colors.Green);
                     spielfeld[pos[0] - 1][pos[1] - 1] = 'O';
 
                     size--;
@@ -130,6 +132,7 @@ namespace WpfApp1
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
             btn1.Content = currenPlayer;
+            btn1.Foreground = new SolidColorBrush(Colors.Red);
             spielfeld[0][1] = 'X';
             size--;
             btn1.IsEnabled = false;
@@ -146,6 +149,7 @@ namespace WpfApp1
                     int[] pos = computerTurn.GetNextZug(difficultie + 1, spielfeld);
                     buttonArray[pos[0] - 1, pos[1] - 1].Content = "O";
                     buttonArray[pos[0] - 1, pos[1] - 1].IsEnabled = false;
+                    buttonArray[pos[0] - 1, pos[1] - 1].Foreground = new SolidColorBrush(Colors.Green);
                     spielfeld[pos[0] - 1][pos[1] - 1] = 'O';
                     size--;
                     if (programm.GewinnerFeststellen())
@@ -167,6 +171,7 @@ namespace WpfApp1
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
             btn2.Content = currenPlayer;
+            btn2.Foreground = new SolidColorBrush(Colors.Red);
             spielfeld[0][2] = 'X';
             size--;
             btn2.IsEnabled = false;
@@ -183,6 +188,7 @@ namespace WpfApp1
                     int[] pos = computerTurn.GetNextZug(difficultie + 1, spielfeld);
                     buttonArray[pos[0] - 1, pos[1] - 1].Content = "O";
                     buttonArray[pos[0] - 1, pos[1] - 1].IsEnabled = false;
+                    buttonArray[pos[0] - 1, pos[1] - 1].Foreground = new SolidColorBrush(Colors.Green);
                     spielfeld[pos[0] - 1][pos[1] - 1] = 'O';
 
                     size--;
@@ -205,6 +211,7 @@ namespace WpfApp1
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
             btn3.Content = currenPlayer;
+            btn3.Foreground = new SolidColorBrush(Colors.Red);
             spielfeld[1][0] = 'X';
             size--;
             btn3.IsEnabled = false;
@@ -221,6 +228,7 @@ namespace WpfApp1
                     int[] pos = computerTurn.GetNextZug(difficultie + 1, spielfeld);
                     buttonArray[pos[0] - 1, pos[1] - 1].Content = "O";
                     buttonArray[pos[0] - 1, pos[1] - 1].IsEnabled = false;
+                    buttonArray[pos[0] - 1, pos[1] - 1].Foreground = new SolidColorBrush(Colors.Green);
                     spielfeld[pos[0] - 1][pos[1] - 1] = 'O';
 
                     size--;
@@ -243,6 +251,7 @@ namespace WpfApp1
         private void Button_Click_4(object sender, RoutedEventArgs e)
         {
             btn4.Content = currenPlayer;
+            btn4.Foreground = new SolidColorBrush(Colors.Red);
             spielfeld[1][1] = 'X';
             size--;
             btn4.IsEnabled = false;
@@ -259,6 +268,7 @@ namespace WpfApp1
                     int[] pos = computerTurn.GetNextZug(difficultie + 1, spielfeld);
                     buttonArray[pos[0] - 1, pos[1] - 1].Content = "O";
                     buttonArray[pos[0] - 1, pos[1] - 1].IsEnabled = false;
+                    buttonArray[pos[0] - 1, pos[1] - 1].Foreground = new SolidColorBrush(Colors.Green);
                     spielfeld[pos[0] - 1][pos[1] - 1] = 'O';
 
                     size--;
@@ -281,6 +291,7 @@ namespace WpfApp1
         private void Button_Click_5(object sender, RoutedEventArgs e)
         {
             btn5.Content = currenPlayer;
+            btn5.Foreground = new SolidColorBrush(Colors.Red);
             spielfeld[1][2] = 'X';
             size--;
             btn5.IsEnabled = false;
@@ -297,6 +308,7 @@ namespace WpfApp1
                     int[] pos = computerTurn.GetNextZug(difficultie + 1, spielfeld);
                     buttonArray[pos[0] - 1, pos[1] - 1].Content = "O";
                     buttonArray[pos[0] - 1, pos[1] - 1].IsEnabled = false;
+                    buttonArray[pos[0] - 1, pos[1] - 1].Foreground = new SolidColorBrush(Colors.Green);
                     spielfeld[pos[0] - 1][pos[1] - 1] = 'O';
 
                     size--;
@@ -319,6 +331,7 @@ namespace WpfApp1
         private void Button_Click_6(object sender, RoutedEventArgs e)
         {
             btn6.Content = currenPlayer;
+            btn6.Foreground = new SolidColorBrush(Colors.Red);
             spielfeld[2][0] = 'X';
             size--;
             btn6.IsEnabled = false;
@@ -335,6 +348,7 @@ namespace WpfApp1
                     int[] pos = computerTurn.GetNextZug(difficultie + 1, spielfeld);
                     buttonArray[pos[0] - 1, pos[1] - 1].Content = "O";
                     buttonArray[pos[0] - 1, pos[1] - 1].IsEnabled = false;
+                    buttonArray[pos[0] - 1, pos[1] - 1].Foreground = new SolidColorBrush(Colors.Green);
                     spielfeld[pos[0] - 1][pos[1] - 1] = 'O';
 
                     size--;
@@ -357,6 +371,7 @@ namespace WpfApp1
         private void Button_Click_7(object sender, RoutedEventArgs e)
         {
             btn7.Content = currenPlayer;
+            btn7.Foreground = new SolidColorBrush(Colors.Red);
             spielfeld[2][1] = 'X';
             size--;
             btn7.IsEnabled = false;
@@ -374,6 +389,7 @@ namespace WpfApp1
                     int[] pos = computerTurn.GetNextZug(difficultie + 1, spielfeld);
                     buttonArray[pos[0] - 1, pos[1] - 1].Content = "O";
                     buttonArray[pos[0] - 1, pos[1] - 1].IsEnabled = false;
+                    buttonArray[pos[0] - 1, pos[1] - 1].Foreground = new SolidColorBrush(Colors.Green);
                     spielfeld[pos[0] - 1][pos[1] - 1] = 'O';
                     if (programm.GewinnerFeststellen())
                     {
@@ -395,6 +411,7 @@ namespace WpfApp1
         private void Button_Click_8(object sender, RoutedEventArgs e)
         {
             btn8.Content = currenPlayer;
+            btn8.Foreground = new SolidColorBrush(Colors.Red);
             spielfeld[2][2] = 'X';
             size--;
             btn8.IsEnabled = false;
@@ -412,6 +429,7 @@ namespace WpfApp1
                     int[] pos = computerTurn.GetNextZug(difficultie + 1, spielfeld);
                     buttonArray[pos[0] - 1, pos[1] - 1].Content = "O";
                     buttonArray[pos[0] - 1, pos[1] - 1].IsEnabled = false;
+                    buttonArray[pos[0] - 1, pos[1] - 1].Foreground = new SolidColorBrush(Colors.Green);
                     spielfeld[pos[0] - 1][pos[1] - 1] = 'O';
                     if (programm.GewinnerFeststellen())
                     {

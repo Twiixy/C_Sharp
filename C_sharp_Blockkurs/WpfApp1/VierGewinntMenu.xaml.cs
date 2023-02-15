@@ -51,6 +51,7 @@ namespace WpfApp1
                 {
                     MessageBox.Show("Bitte nur Zahlen zwischen 4 und 20 eingeben");
                     korrekteEngabe = false;
+                    return;
                 }
                 else
                 {
@@ -61,6 +62,7 @@ namespace WpfApp1
                 {
                     MessageBox.Show("Bitte nur Zahlen zwischen 4 und 20 eingeben");
                     korrekteEngabe = false;
+                    return;
                 }
                 else
                 {

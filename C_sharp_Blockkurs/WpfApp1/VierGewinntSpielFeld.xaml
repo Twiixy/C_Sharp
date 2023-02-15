@@ -5,25 +5,19 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
-        Title="VierGewinntSpielFeld" Height="600" Width="1000">
-    <Grid>
-        <Grid  x:Name="gridSpielfeld" Margin="100,150,90,80">
+        Title="VierGewinntSpielFeld" Height="700" Width="1100">
+    <Grid Margin="0,0,0,-6">
 
-
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition />
-                <ColumnDefinition />
-                <ColumnDefinition />
-            </Grid.ColumnDefinitions>
-            <Grid.RowDefinitions>
-                <RowDefinition />
-                <RowDefinition />
-                <RowDefinition />
-                <RowDefinition />
-            </Grid.RowDefinitions>
-
+        <Grid  x:Name="gridSpielfeld" Margin="54,35,117,98">
 
         </Grid>
+        <Button FontSize="20" Background="Blue" Foreground="White" Content="Zum Hauptmenü" HorizontalAlignment="Left" Margin="924,597,0,0" VerticalAlignment="Top" Height="58" Width="155" Click="button_Click"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="1029,79,0,0" TextWrapping="Wrap" Text="Score" VerticalAlignment="Top" Height="16" Width="34"/>
+        <Label FontSize="15" x:Name="XWins" Foreground="Red" Content="0" HorizontalAlignment="Left" Margin="1018,92,0,0" VerticalAlignment="Top" Height="34" Width="24"/>
+        <Label FontSize="15"  x:Name="Owins" Foreground="Green" Content="0" HorizontalAlignment="Left" Margin="1047,92,0,0" VerticalAlignment="Top" Height="34" Width="23"/>
+        <Label FontSize="15"  x:Name="label2" Content="-" HorizontalAlignment="Left" Margin="1033,90,0,0" VerticalAlignment="Top" Height="34" Width="20"/>
+        <Label Background="Yellow" x:Name="nextZeichen" Content="X" HorizontalAlignment="Left" Margin="1033,241,0,0" VerticalAlignment="Top"/>
+        <TextBlock FontSize="15" x:Name="textBlock1" HorizontalAlignment="Left" Margin="1018,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="42" Width="61"><Run Text="Nächstes"/><LineBreak/><Run Language="de-de" Text="Zeichen"/><LineBreak/><Run/></TextBlock>
 
     </Grid>
 </Window>
