@@ -1,0 +1,16 @@
+C:\Users\di461643\source\repos\C_sharp_Blockkurs\C_sharp_Blockkurs\bin\Debug\net5.0\C_sharp_Blockkurs.exe
+C:\Users\di461643\source\repos\C_sharp_Blockkurs\C_sharp_Blockkurs\bin\Debug\net5.0\C_sharp_Blockkurs.deps.json
+C:\Users\di461643\source\repos\C_sharp_Blockkurs\C_sharp_Blockkurs\bin\Debug\net5.0\C_sharp_Blockkurs.runtimeconfig.json
+C:\Users\di461643\source\repos\C_sharp_Blockkurs\C_sharp_Blockkurs\bin\Debug\net5.0\C_sharp_Blockkurs.runtimeconfig.dev.json
+C:\Users\di461643\source\repos\C_sharp_Blockkurs\C_sharp_Blockkurs\bin\Debug\net5.0\C_sharp_Blockkurs.dll
+C:\Users\di461643\source\repos\C_sharp_Blockkurs\C_sharp_Blockkurs\bin\Debug\net5.0\ref\C_sharp_Blockkurs.dll
+C:\Users\di461643\source\repos\C_sharp_Blockkurs\C_sharp_Blockkurs\bin\Debug\net5.0\C_sharp_Blockkurs.pdb
+C:\Users\di461643\source\repos\C_sharp_Blockkurs\C_sharp_Blockkurs\obj\Debug\net5.0\C_sharp_Blockkurs.csproj.AssemblyReference.cache
+C:\Users\di461643\source\repos\C_sharp_Blockkurs\C_sharp_Blockkurs\obj\Debug\net5.0\C_sharp_Blockkurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\di461643\source\repos\C_sharp_Blockkurs\C_sharp_Blockkurs\obj\Debug\net5.0\C_sharp_Blockkurs.AssemblyInfoInputs.cache
+C:\Users\di461643\source\repos\C_sharp_Blockkurs\C_sharp_Blockkurs\obj\Debug\net5.0\C_sharp_Blockkurs.AssemblyInfo.cs
+C:\Users\di461643\source\repos\C_sharp_Blockkurs\C_sharp_Blockkurs\obj\Debug\net5.0\C_sharp_Blockkurs.csproj.CoreCompileInputs.cache
+C:\Users\di461643\source\repos\C_sharp_Blockkurs\C_sharp_Blockkurs\obj\Debug\net5.0\C_sharp_Blockkurs.dll
+C:\Users\di461643\source\repos\C_sharp_Blockkurs\C_sharp_Blockkurs\obj\Debug\net5.0\ref\C_sharp_Blockkurs.dll
+C:\Users\di461643\source\repos\C_sharp_Blockkurs\C_sharp_Blockkurs\obj\Debug\net5.0\C_sharp_Blockkurs.pdb
+C:\Users\di461643\source\repos\C_sharp_Blockkurs\C_sharp_Blockkurs\obj\Debug\net5.0\C_sharp_Blockkurs.genruntimeconfig.cache
