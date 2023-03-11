@@ -12,5 +12,11 @@
         <Button Content="Mittel" HorizontalAlignment="Left"  FontSize="30" Margin="260,210,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="50" Width="255"/>
         <Button Content="Schwer" HorizontalAlignment="Left"  FontSize="30" Margin="260,270,0,0" VerticalAlignment="Top" Height="50" Width="255" Click="Button_Click_2"/>
 
+        <Image HorizontalAlignment="Left" Height="134" Margin="25,158,0,0" VerticalAlignment="Top" Width="210">
+            <Image.Source>
+                <BitmapImage  UriSource="\\win.rz.rwth-aachen.de\home\di461643\Pictures\rainbow_spongebob.jpg" />
+            </Image.Source>
+        </Image>
     </Grid>
+
 </Window>

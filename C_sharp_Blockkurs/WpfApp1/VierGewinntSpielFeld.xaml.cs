@@ -62,7 +62,7 @@ namespace WpfApp1
                     for (int x = 0; x < _breite; x++)
                     {
                         
-                        if (buttonarray[x, y].Content.ToString() != "" && buttonarray[x, y + 1].Content.ToString() == currPlayer && buttonarray[x, y + 2].Content.ToString() == currPlayer && buttonarray[x, y + 3].Content.ToString() == currPlayer)
+                        if (buttonarray[x, y].Content.ToString() ==currPlayer && buttonarray[x, y + 1].Content.ToString() == currPlayer && buttonarray[x, y + 2].Content.ToString() == currPlayer && buttonarray[x, y + 3].Content.ToString() == currPlayer)
                         {
                               if (currPlayer == "X")
                               {
@@ -83,7 +83,7 @@ namespace WpfApp1
                 {
                     for (int y = 0; y < _hoehe; y++)
                     {
-                    if (buttonarray[x, y].Content.ToString() != "" && buttonarray[x + 1, y].Content.ToString() == currPlayer && buttonarray[x + 2, y].Content.ToString() == currPlayer && buttonarray[x + 3, y].Content.ToString() == currPlayer)
+                    if (buttonarray[x, y].Content.ToString() ==currPlayer && buttonarray[x + 1, y].Content.ToString() == currPlayer && buttonarray[x + 2, y].Content.ToString() == currPlayer && buttonarray[x + 3, y].Content.ToString() == currPlayer)
                     {
                         if (currPlayer == "X")
                         {
@@ -105,7 +105,7 @@ namespace WpfApp1
                 {
                     for (int y = 0; y < _hoehe - 3; y++)
                     {
-                        if (buttonarray[x, y].Content.ToString() != "" && buttonarray[x - 1, y + 1].Content.ToString() == currPlayer && buttonarray[x - 2, y + 2].Content.ToString() == currPlayer && buttonarray[x - 3, y + 3].Content.ToString() == currPlayer)
+                        if (buttonarray[x, y].Content.ToString() ==currPlayer && buttonarray[x - 1, y + 1].Content.ToString() == currPlayer && buttonarray[x - 2, y + 2].Content.ToString() == currPlayer && buttonarray[x - 3, y + 3].Content.ToString() == currPlayer)
                         {
                         if (currPlayer == "X")
                         {
@@ -126,7 +126,7 @@ namespace WpfApp1
                 {
                     for (int y = 3; y < _hoehe; y++)
                     {
-                        if (buttonarray[x, y].Content.ToString() != "" && buttonarray[x - 1, y - 1].Content.ToString() == currPlayer && buttonarray[x - 2, y - 2].Content.ToString() == currPlayer && buttonarray[x - 3, y - 3].Content.ToString() == currPlayer)
+                        if (buttonarray[x, y].Content.ToString() ==currPlayer && buttonarray[x - 1, y - 1].Content.ToString() == currPlayer && buttonarray[x - 2, y - 2].Content.ToString() == currPlayer && buttonarray[x - 3, y - 3].Content.ToString() == currPlayer)
                         {
                         if (currPlayer == "X")
                         {
@@ -167,6 +167,10 @@ namespace WpfApp1
                     {
                         btn.Content = "";
                         btn.IsEnabled = false;
+                    }
+                    else
+                    {
+                        btn.Background = new SolidColorBrush(Colors.BlueViolet);
                     }
                     btn.FontSize = 20;
                     btn.FontWeight = FontWeights.Bold;

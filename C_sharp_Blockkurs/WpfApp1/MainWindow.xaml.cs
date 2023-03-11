@@ -39,5 +39,12 @@ namespace WpfApp1
             menuWindow.Show();
 
         }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            var menuWindow = new HotButtonMenu();
+            this.Hide();
+            menuWindow.Show();
+        }
     }
 }

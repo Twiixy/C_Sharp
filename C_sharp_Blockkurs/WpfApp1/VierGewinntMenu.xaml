@@ -13,6 +13,11 @@
         <TextBox Text="6" x:Name="hoeheEingabe" HorizontalAlignment="Left" Margin="325,146,0,0"  TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="breiteEingabe_Copy_TextChanged" />
         <Button Background="Blue" Foreground="White" Content="Bestätigen" HorizontalAlignment="Left" Margin="315,217,0,0" VerticalAlignment="Top" Height="35" Width="140" Click="Button_Click"/>
 
+        <Image HorizontalAlignment="Left" Height="183" Margin="500,103,0,0" VerticalAlignment="Top" Width="260">
+            <Image.Source>
+                <BitmapImage  UriSource="\\win.rz.rwth-aachen.de\home\di461643\Pictures\patrick.jpg" />
+            </Image.Source>
+        </Image>
 
     </Grid>
 </Window>

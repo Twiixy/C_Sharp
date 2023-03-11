@@ -1,0 +1,33 @@
+﻿<Window x:Class="WpfApp1.HotButtonMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="HotButtonMenu" Height="450" Width="800">
+    <Grid>
+        <TextBlock FontSize="20" Background="CadetBlue" Foreground="Yellow" HorizontalAlignment="Left" Margin="25,29,0,0" Text="Drücke den Button, inerhalb von 10 Sekunden, sooft wie möglich" TextWrapping="Wrap" VerticalAlignment="Top" Height="58" Width="390"/>
+        <Button x:Name="hotButton" Background="Blue" Foreground="White" Content="Button" HorizontalAlignment="Left" Margin="185,217,0,0" VerticalAlignment="Top" Height="45" Width="115" Click="HotButtonClick" RenderTransformOrigin="0.522,0.601"/>
+        <Button FontSize="20" Background="Blue" Foreground="White" Content="Zum Hauptmenü" HorizontalAlignment="Left" Margin="610,351,0,0" VerticalAlignment="Top" Height="58" Width="165" Click="BackButton" />
+        <Grid Margin="55,157,485,235">
+            <ProgressBar Minimum="0" Maximum="100" Value="0" Name="pbStatus" ValueChanged="pbStatus_ValueChanged" />
+            <TextBlock Text="{Binding ElementName=pbStatus, Path=Value, StringFormat={}{0:0}%}" HorizontalAlignment="Center" VerticalAlignment="Center" />
+        </Grid>
+        <Button x:Name="startButton" Background="Blue" Foreground="White" Content="Start game" HorizontalAlignment="Left" Margin="325,157,0,0" VerticalAlignment="Top" Height="43" Width="75" Click="StartGameButton"/>
+        <Grid x:Name="gridScore" Margin="540,71,50,120">
+            <Grid.RowDefinitions>
+            </Grid.RowDefinitions>
+            <ScrollBar x:Name="sb" HorizontalAlignment="Left" Margin="183,88,0,0" VerticalAlignment="Top" ValueChanged="ScrollBar_ValueChanged"/>
+        </Grid>
+        <TextBlock FontSize="20" HorizontalAlignment="Left" Margin="570,37,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="29" Width="105"><Run Language="de-de" Text="Highscore"/></TextBlock>
+        <TextBox x:Name="userNamebox" HorizontalAlignment="Left" Margin="139,119,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" />
+        <TextBlock HorizontalAlignment="Left" Margin="94,119,0,0" Text="Name: " TextWrapping="Wrap" VerticalAlignment="Top"/>
+
+        <Image HorizontalAlignment="Left" Height="125" Margin="380,278,0,0" VerticalAlignment="Top" Width="116">
+            <Image.Source>
+                <BitmapImage  UriSource="\\win.rz.rwth-aachen.de\home\di461643\Pictures\SpongebobFiguren.jpg" />
+            </Image.Source>
+        </Image>
+    </Grid>
+</Window>

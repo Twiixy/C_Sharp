@@ -28,6 +28,7 @@ namespace WpfApp1
 
         private int myScore { get; set; }
         private int botScore { get; set; }
+        private int _dif { get; set; }
 
         private static Button[,] buttonArray { get; set; }
 
@@ -35,6 +36,7 @@ namespace WpfApp1
         public TicTacToeSpielFeld(Level schwierigkeitsgrad)
         {
             InitializeComponent();
+            _dif = schwierigkeitsgrad.currentLevel;
             difficultie = schwierigkeitsgrad.currentLevel ;
             myScore = 0;
             botScore = 0;
@@ -84,6 +86,15 @@ namespace WpfApp1
                     buttonArray[i, j].IsEnabled = true;
                 }
             }
+            if (_dif == 2)
+            {
+                int[] pos = computerTurn.GetNextZug(difficultie + 1, spielfeld);
+                buttonArray[pos[0] - 1, pos[1] - 1].Content = "O";
+                buttonArray[pos[0] - 1, pos[1] - 1].IsEnabled = false;
+                buttonArray[pos[0] - 1, pos[1] - 1].Foreground = new SolidColorBrush(Colors.Green);
+                spielfeld[pos[0] - 1][pos[1] - 1] = 'O';
+                size--;
+            }
 
 
         }
@@ -120,7 +131,7 @@ namespace WpfApp1
                         resetGame();
                     }
                 }
-                else
+                if(size==0)
                 {
                     MessageBox.Show("Unentschieden DingDingDing!");
                     updateScore();
@@ -159,7 +170,7 @@ namespace WpfApp1
                         resetGame();
                     }
                 }
-                else
+                if (size == 0)
                 {
                     MessageBox.Show("Unentschieden DingDingDing!");
                     updateScore();
@@ -199,7 +210,7 @@ namespace WpfApp1
                         resetGame();
                     }
                 }
-                else
+                if (size == 0)
                 {
                     MessageBox.Show("Unentschieden DingDingDing!");
                     updateScore();
@@ -239,7 +250,7 @@ namespace WpfApp1
                         resetGame();
                     }
                 }
-                else
+                if (size == 0)
                 {
                     MessageBox.Show("Unentschieden DingDingDing!");
                     updateScore();
@@ -279,7 +290,7 @@ namespace WpfApp1
                         resetGame();
                     }
                 }
-                else
+                if (size == 0)
                 {
                     MessageBox.Show("Unentschieden DingDingDing!");
                     updateScore();
@@ -319,7 +330,7 @@ namespace WpfApp1
                         resetGame();
                     }
                 }
-                else
+                if (size == 0)
                 {
                     MessageBox.Show("Unentschieden DingDingDing!");
                     updateScore();
@@ -359,7 +370,7 @@ namespace WpfApp1
                         resetGame();
                     }
                 }
-                else
+                if (size == 0)
                 {
                     MessageBox.Show("Unentschieden DingDingDing!");
                     updateScore();
@@ -399,7 +410,7 @@ namespace WpfApp1
                     }
 
                 }
-                else
+                if (size == 0)
                 {
                     MessageBox.Show("Unentschieden DingDingDing!");
                     updateScore();
@@ -439,7 +450,7 @@ namespace WpfApp1
                     }
 
                 }
-                else
+                if (size == 0)
                 {
                     MessageBox.Show("Unentschieden DingDingDing!");
                     updateScore();

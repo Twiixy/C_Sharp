@@ -5,13 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
-        Title="VierGewinntSpielFeld" Height="700" Width="1100">
+        Title="VierGewinntSpielFeld" Height="600" Width="1100">
     <Grid Margin="0,0,0,-6">
 
         <Grid  x:Name="gridSpielfeld" Margin="54,35,117,98">
 
         </Grid>
-        <Button FontSize="20" Background="Blue" Foreground="White" Content="Zum Hauptmenü" HorizontalAlignment="Left" Margin="924,597,0,0" VerticalAlignment="Top" Height="58" Width="155" Click="button_Click"/>
+        <Button FontSize="20" Background="Blue" Foreground="White" Content="Zum Hauptmenü" HorizontalAlignment="Left" Margin="924,500,0,0" VerticalAlignment="Top" Height="58" Width="155" Click="button_Click"/>
         <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="1029,79,0,0" TextWrapping="Wrap" Text="Score" VerticalAlignment="Top" Height="16" Width="34"/>
         <Label FontSize="15" x:Name="XWins" Foreground="Red" Content="0" HorizontalAlignment="Left" Margin="1018,92,0,0" VerticalAlignment="Top" Height="34" Width="24"/>
         <Label FontSize="15"  x:Name="Owins" Foreground="Green" Content="0" HorizontalAlignment="Left" Margin="1047,92,0,0" VerticalAlignment="Top" Height="34" Width="23"/>

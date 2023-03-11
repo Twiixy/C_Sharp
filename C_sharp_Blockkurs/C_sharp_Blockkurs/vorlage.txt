@@ -1,0 +1,13 @@
+Heute {früh,am Morgen} ist es im {Norden,Süden,Westen,Osten} zunächst noch
+ {strichweise,stellenweise} {heiter,locker,aufgehellt}, sonst überwiegend
+ {gering bewölkt oder klar,regnerisch,nebelig} und {trocken,nass,rutschig}.
+ Im Tagesverlauf zeigt sich dann überall {die Sonne,der Himmel,der Mond,ein Regenbogen}.
+ Zum Nachmittag kann es besonders im {Bergland,Hinterland,flachen Land} einige
+ {Quellwolken,Gewitterwolken,Regenwolken} geben. Es bleibt jedoch durchweg
+ {trocken,nass,kalt}. Die Höchstwerte liegen von Schleswig-Holstein bis nach Sachsen zwischen
+ {xy} Grad. An den Küsten, insbesondere an der {Nordsee,Ostsee}, werden bei auflandigem
+ Wind Werte zwischen {xy} Grad erreicht. Im Westen und Süden werden
+ {x} Grad erwartet, entlang des Rheins, der Mosel und der Saar vereinzelt
+ bis {x} Grad. Entsprechend muss dort mit einer {hohen,starken} {Wärmebelastung,Körpertemperatur}
+ gerechnet werden. Der Wind weht {stark,böig,warm,schwach}, am Nachmittag auch zeitweise
+ {wuchtig,mäßig} aus {nördlichen,westlichen,südlichen,östlichen} Richtungen.
