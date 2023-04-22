@@ -1,0 +1,1449 @@
+Archive member included to satisfy reference by file (symbol)
+
+YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+                              CMakeFiles/servo.dir/servo.cpp.obj (adc14_msp432::inst)
+YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                              CMakeFiles/servo.dir/servo.cpp.obj (gpio_msp432::inst)
+YAHAL_servo\libYAHAL_servo.a(startup_msp432p401r_gcc.cpp.obj)
+                              (Reset_Handler)
+YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                              CMakeFiles/servo.dir/servo.cpp.obj (uart_msp432::uart_msp432(EUSCI_A_Type*, unsigned long, unsigned short))
+YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+                              YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj) (SystemCoreClock)
+YAHAL_servo\libYAHAL_servo.a(cpp_support.cpp.obj)
+                              YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj) (std::__throw_bad_function_call())
+YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+                              CMakeFiles/servo.dir/servo.cpp.obj (posix_io::inst)
+YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+                              YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj) (irq_dispatcher::link_in())
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(atexit_arm.o)
+                              YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj) (__aeabi_atexit)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+                              YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj) (operator delete(void*, unsigned int))
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o) (operator delete(void*))
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o (exit)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o) (free)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o) (_malloc_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o) (__malloc_lock)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-cxa_atexit.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(atexit_arm.o) (__cxa_atexit)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+                              YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj) (fflush)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o) (__sglue)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o) (_fwalk_sglue)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-printf.o)
+                              CMakeFiles/servo.dir/servo.cpp.obj (printf)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-setvbuf.o)
+                              YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj) (setvbuf)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o) (__sread)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o (memset)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o) (_close_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o) (errno)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+                              YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj) (_impure_ptr)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o) (_lseek_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o) (_read_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o) (_write_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-errno.o)
+                              YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj) (__errno)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-strlen.o)
+                              YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj) (strlen)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o) (_free_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-on_exit_args.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-cxa_atexit.o) (__on_exit_args)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-printf.o) (_vfprintf_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o) (_printf_i)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fvwrite.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o) (__sfvwrite_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-makebuf.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-setvbuf.o) (__swhatbuf_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-wbuf.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o) (__swbuf_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-wsetup.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o) (__swsetup_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memmove.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fvwrite.o) (memmove)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fstatr.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-makebuf.o) (_fstat_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-isattyr.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-makebuf.o) (_isatty_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memchr.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o) (memchr)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fvwrite.o) (memcpy)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reallocr.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fvwrite.o) (_realloc_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-msizer.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reallocr.o) (_malloc_usable_size_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o) (_sbrk)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/servo.dir/servo.cpp.obj
+ .data          0x00000000        0x0 CMakeFiles/servo.dir/servo.cpp.obj
+ .bss           0x00000000        0x0 CMakeFiles/servo.dir/servo.cpp.obj
+ .text._Z9setTimerAt
+                0x00000000        0x2 CMakeFiles/servo.dir/servo.cpp.obj
+ .group         0x00000000       0x14 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .text          0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .data          0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .bss           0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .text._ZN12adc14_msp43212adcStartScanEhh
+                0x00000000       0x70 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .text._ZN12adc14_msp43211adcReadScanEh
+                0x00000000       0x34 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .text._ZN12adc14_msp43213attachScanIrqEhPFvttE
+                0x00000000       0x48 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .text._ZN12adc14_msp43212attachWinIrqEhPFvttEttt
+                0x00000000       0xb8 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .text._ZN12adc14_msp43212adcSetupScanEt
+                0x00000000       0x1e YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .group         0x00000000        0x8 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .group         0x00000000       0x14 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .group         0x00000000        0x8 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .group         0x00000000        0x8 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .group         0x00000000        0x8 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .text          0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .data          0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .bss           0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .text          0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(startup_msp432p401r_gcc.cpp.obj)
+ .data          0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(startup_msp432p401r_gcc.cpp.obj)
+ .bss           0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(startup_msp432p401r_gcc.cpp.obj)
+ .group         0x00000000        0x8 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .group         0x00000000        0x8 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .group         0x00000000        0x8 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .group         0x00000000        0x8 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .text          0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .data          0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .bss           0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .text._ZNSt14_Function_baseD2Ev
+                0x00000000       0x12 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .text._ZN11uart_msp4324putsEPKc
+                0x00000000       0x26 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .text._ZSt4swapISt9_Any_dataENSt9enable_ifIXsrSt6__and_IJSt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleIS5_ESt18is_move_assignableIS5_EEE5valueEvE4typeERS5_SF_
+                0x00000000       0x24 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .text          0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+ .data          0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+ .bss           0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+ .text          0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(cpp_support.cpp.obj)
+ .data          0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(cpp_support.cpp.obj)
+ .bss           0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(cpp_support.cpp.obj)
+ .text          0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .data          0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .bss           0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .text._open    0x00000000       0x2c YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .text._link    0x00000000       0x28 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .text._unlink  0x00000000       0x24 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .text._stat    0x00000000       0x24 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .text._kill    0x00000000       0x10 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .text._getpid  0x00000000        0x6 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .text._ZN8posix_io14register_stdinER14uart_interfaceb
+                0x00000000       0x1c YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .text._ZN8posix_io15register_stderrER14uart_interfaceb
+                0x00000000       0x1c YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .text._ZN8posix_io15register_fileioER18posix_io_interface
+                0x00000000        0x4 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .text          0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+ .data          0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+ .bss           0x00000000        0x0 YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(atexit_arm.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(atexit_arm.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(atexit_arm.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-cxa_atexit.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-cxa_atexit.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-cxa_atexit.o)
+ .rodata.__cxa_atexit_dummy
+                0x00000000        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-cxa_atexit.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x18 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x18 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xa4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x1c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x1c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-printf.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-printf.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-printf.o)
+ .text._printf_r
+                0x00000000       0x1c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-printf.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-setvbuf.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-setvbuf.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-setvbuf.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xac c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-errno.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-errno.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-errno.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text          0x00000000       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-strlen.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-strlen.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-strlen.o)
+ .debug_line_str
+                0x00000000       0xeb c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-strlen.o)
+ .ARM.attributes
+                0x00000000       0x17 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-strlen.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-on_exit_args.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-on_exit_args.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-on_exit_args.o)
+ .rodata.__on_exit_args
+                0x00000000        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-on_exit_args.o)
+ .bss._on_exit_args_instance
+                0x00000000      0x108 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-on_exit_args.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-on_exit_args.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+ .text.__sprint_r
+                0x00000000       0x1a c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+ .text.vfprintf
+                0x00000000       0x14 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fvwrite.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fvwrite.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x00000000      0x2a0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fvwrite.o)
+ .debug_frame   0x00000000       0x3c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fvwrite.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fvwrite.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-makebuf.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-makebuf.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-makebuf.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-wbuf.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-wbuf.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-wbuf.o)
+ .text.__swbuf  0x00000000       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-wbuf.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-wsetup.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-wsetup.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-wsetup.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memmove.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memmove.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memmove.o)
+ .text.memmove  0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memmove.o)
+ .debug_frame   0x00000000       0x28 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memmove.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memmove.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fstatr.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fstatr.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fstatr.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-isattyr.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-isattyr.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-isattyr.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memchr.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memchr.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .text.memcpy   0x00000000       0x1c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .debug_frame   0x00000000       0x28 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reallocr.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reallocr.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reallocr.o)
+ .text._realloc_r
+                0x00000000       0x5c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reallocr.o)
+ .debug_frame   0x00000000       0x3c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reallocr.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reallocr.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-msizer.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-msizer.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-msizer.o)
+ .text._malloc_usable_size_r
+                0x00000000       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-msizer.o)
+ .debug_frame   0x00000000       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-msizer.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-msizer.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00040000         xr
+RAM              0x20000000         0x00010000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+
+.text           0x00000000     0x2c20
+ *(.intvecs)
+ .intvecs       0x00000000       0xe4 YAHAL_servo\libYAHAL_servo.a(startup_msp432p401r_gcc.cpp.obj)
+ *(.text.*)
+ .text.deregister_tm_clones
+                0x000000e4       0x1c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.register_tm_clones
+                0x00000100       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x00000124       0x28 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.frame_dummy
+                0x0000014c       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.main     0x00000170       0x6c CMakeFiles/servo.dir/servo.cpp.obj
+                0x00000170                main
+ .text._ZL17yahal_assert_funcv
+                0x000001dc        0x2 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ *fill*         0x000001de        0x2 
+ .text._ZN12adc14_msp4327getModeEh
+                0x000001e0       0x2c YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+                0x000001e0                adc14_msp432::getMode(unsigned char)
+ .text._ZN12adc14_msp43214adcReadVoltageEh
+                0x0000020c       0x18 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+                0x0000020c                adc14_msp432::adcReadVoltage(unsigned char)
+ .text._ZN12adc14_msp43212rawToVoltageEht
+                0x00000224       0x84 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+                0x00000224                adc14_msp432::rawToVoltage(unsigned char, unsigned short)
+ .text._ZN12adc14_msp432D2Ev
+                0x000002a8       0x14 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+                0x000002a8                adc14_msp432::~adc14_msp432()
+                0x000002a8                adc14_msp432::~adc14_msp432()
+ .text._ZN12adc14_msp4327adcModeEht
+                0x000002bc       0x5c YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+                0x000002bc                adc14_msp432::adcMode(unsigned char, unsigned short)
+ .text._ZN12adc14_msp432D0Ev
+                0x00000318       0x20 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+                0x00000318                adc14_msp432::~adc14_msp432()
+ .text._ZN12adc14_msp43211adcStopScanEv
+                0x00000338       0x1c YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+                0x00000338                adc14_msp432::adcStopScan()
+ .text._ZN12adc14_msp432C2Ev
+                0x00000354       0x64 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+                0x00000354                adc14_msp432::adc14_msp432()
+                0x00000354                adc14_msp432::adc14_msp432()
+ .text._Z41__static_initialization_and_destruction_0ii
+                0x000003b8       0x30 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .text._ZN12adc14_msp43214set_resolutionEt
+                0x000003e8       0x8c YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+                0x000003e8                adc14_msp432::set_resolution(unsigned short)
+ .text._ZN12adc14_msp43210adcReadRawEh
+                0x00000474       0x8c YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+                0x00000474                adc14_msp432::adcReadRaw(unsigned char)
+ .text._ZN12adc14_msp4329handleIrqEm
+                0x00000500       0x98 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+                0x00000500                adc14_msp432::handleIrq(unsigned long)
+ .text.ADC14_IRQHandler
+                0x00000598       0x18 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+                0x00000598                ADC14_IRQHandler
+ .text._GLOBAL__sub_I__ZN12adc14_msp4324instE
+                0x000005b0        0xe YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ *fill*         0x000005be        0x2 
+ .text.__NVIC_EnableIRQ
+                0x000005c0       0x1c YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .text._ZL17yahal_assert_funcv
+                0x000005dc        0x2 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ *fill*         0x000005de        0x2 
+ .text._ZN11gpio_msp4328gpioReadEt
+                0x000005e0       0x48 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x000005e0                gpio_msp432::gpioRead(unsigned short)
+ .text._ZN11gpio_msp4329gpioWriteEtb
+                0x00000628      0x148 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000628                gpio_msp432::gpioWrite(unsigned short, bool)
+ .text._ZN11gpio_msp43210gpioToggleEt
+                0x00000770       0x50 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000770                gpio_msp432::gpioToggle(unsigned short)
+ .text._ZN11gpio_msp43213gpioEnableIrqEt
+                0x000007c0       0x60 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x000007c0                gpio_msp432::gpioEnableIrq(unsigned short)
+ .text._ZN11gpio_msp43214gpioDisableIrqEt
+                0x00000820       0x48 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000820                gpio_msp432::gpioDisableIrq(unsigned short)
+ .text._ZNSt14_Function_baseD2Ev
+                0x00000868       0x12 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000868                std::_Function_base::~_Function_base()
+                0x00000868                std::_Function_base::~_Function_base()
+ *fill*         0x0000087a        0x2 
+ .text._ZN11gpio_msp432D2Ev
+                0x0000087c       0x30 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x0000087c                gpio_msp432::~gpio_msp432()
+                0x0000087c                gpio_msp432::~gpio_msp432()
+ .text._ZN11gpio_msp432D0Ev
+                0x000008ac       0x16 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x000008ac                gpio_msp432::~gpio_msp432()
+ *fill*         0x000008c2        0x2 
+ .text._ZN11gpio_msp432C2Ev
+                0x000008c4       0x48 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x000008c4                gpio_msp432::gpio_msp432()
+                0x000008c4                gpio_msp432::gpio_msp432()
+ .text._Z41__static_initialization_and_destruction_0ii
+                0x0000090c       0x30 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .text._ZN11gpio_msp4326setSELEth
+                0x0000093c       0x58 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x0000093c                gpio_msp432::setSEL(unsigned short, unsigned char)
+ .text._ZN11gpio_msp4327setModeEtt
+                0x00000994      0x168 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000994                gpio_msp432::setMode(unsigned short, unsigned short)
+ .text._ZN11gpio_msp4328gpioModeEtt
+                0x00000afc       0x1a YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000afc                gpio_msp432::gpioMode(unsigned short, unsigned short)
+ .text._ZNSt8functionIFvvEEC2ERKS1_
+                0x00000b16       0x24 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000b16                std::function<void ()>::function(std::function<void ()> const&)
+                0x00000b16                std::function<void ()>::function(std::function<void ()> const&)
+ .text._ZNSt8functionIFvvEEaSEDn
+                0x00000b3a       0x18 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000b3a                std::function<void ()>::operator=(decltype(nullptr))
+ *fill*         0x00000b52        0x2 
+ .text._ZN11gpio_msp43213gpioDetachIrqEt
+                0x00000b54       0x4c YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000b54                gpio_msp432::gpioDetachIrq(unsigned short)
+ .text._ZNKSt8functionIFvvEEclEv
+                0x00000ba0       0x10 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000ba0                std::function<void ()>::operator()() const
+ .text._ZN11gpio_msp4329handleIrqEhh
+                0x00000bb0       0x48 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000bb0                gpio_msp432::handleIrq(unsigned char, unsigned char)
+ .text.PORT1_IRQHandler
+                0x00000bf8       0x24 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000bf8                PORT1_IRQHandler
+ .text.PORT2_IRQHandler
+                0x00000c1c       0x24 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000c1c                PORT2_IRQHandler
+ .text.PORT3_IRQHandler
+                0x00000c40       0x24 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000c40                PORT3_IRQHandler
+ .text.PORT4_IRQHandler
+                0x00000c64       0x24 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000c64                PORT4_IRQHandler
+ .text.PORT5_IRQHandler
+                0x00000c88       0x28 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000c88                PORT5_IRQHandler
+ .text.PORT6_IRQHandler
+                0x00000cb0       0x28 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000cb0                PORT6_IRQHandler
+ .text._ZSt4swapISt9_Any_dataENSt9enable_ifIXsrSt6__and_IJSt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleIS5_ESt18is_move_assignableIS5_EEE5valueEvE4typeERS5_SF_
+                0x00000cd8       0x24 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000cd8                std::enable_if<std::__and_<std::__not_<std::__is_tuple_like<std::_Any_data> >, std::is_move_constructible<std::_Any_data>, std::is_move_assignable<std::_Any_data> >::value, void>::type std::swap<std::_Any_data>(std::_Any_data&, std::_Any_data&)
+ .text._ZNSt8functionIFvvEE4swapERS1_
+                0x00000cfc       0x1c YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000cfc                std::function<void ()>::swap(std::function<void ()>&)
+ .text._ZNSt8functionIFvvEEaSERKS1_
+                0x00000d18       0x20 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000d18                std::function<void ()>::operator=(std::function<void ()> const&)
+ .text._ZN11gpio_msp43213gpioAttachIrqEttSt8functionIFvvEE
+                0x00000d38       0xf8 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00000d38                gpio_msp432::gpioAttachIrq(unsigned short, unsigned short, std::function<void ()>)
+ .text._GLOBAL__sub_I_port_base
+                0x00000e30        0xe YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .text.Default_Handler
+                0x00000e3e        0x2 YAHAL_servo\libYAHAL_servo.a(startup_msp432p401r_gcc.cpp.obj)
+                0x00000e3e                CS_IRQHandler
+                0x00000e3e                DebugMon_Handler
+                0x00000e3e                AES256_IRQHandler
+                0x00000e3e                HardFault_Handler
+                0x00000e3e                SysTick_Handler
+                0x00000e3e                PendSV_Handler
+                0x00000e3e                NMI_Handler
+                0x00000e3e                RTC_C_IRQHandler
+                0x00000e3e                FPU_IRQHandler
+                0x00000e3e                TA3_0_IRQHandler
+                0x00000e3e                UsageFault_Handler
+                0x00000e3e                DMA_INT3_IRQHandler
+                0x00000e3e                TA2_0_IRQHandler
+                0x00000e3e                DMA_INT1_IRQHandler
+                0x00000e3e                WDT_A_IRQHandler
+                0x00000e3e                TA2_N_IRQHandler
+                0x00000e3e                TA1_0_IRQHandler
+                0x00000e3e                PSS_IRQHandler
+                0x00000e3e                DMA_INT2_IRQHandler
+                0x00000e3e                DMA_INT0_IRQHandler
+                0x00000e3e                Default_Handler
+                0x00000e3e                T32_INTC_IRQHandler
+                0x00000e3e                TA3_N_IRQHandler
+                0x00000e3e                TA0_0_IRQHandler
+                0x00000e3e                MemManage_Handler
+                0x00000e3e                SVC_Handler
+                0x00000e3e                TA1_N_IRQHandler
+                0x00000e3e                COMP_E1_IRQHandler
+                0x00000e3e                FLCTL_IRQHandler
+                0x00000e3e                T32_INT1_IRQHandler
+                0x00000e3e                DMA_ERR_IRQHandler
+                0x00000e3e                BusFault_Handler
+                0x00000e3e                PCM_IRQHandler
+                0x00000e3e                TA0_N_IRQHandler
+                0x00000e3e                COMP_E0_IRQHandler
+                0x00000e3e                T32_INT2_IRQHandler
+ .text.Reset_Handler
+                0x00000e40       0x60 YAHAL_servo\libYAHAL_servo.a(startup_msp432p401r_gcc.cpp.obj)
+                0x00000e40                Reset_Handler
+ .text.__NVIC_EnableIRQ
+                0x00000ea0       0x1c YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .text.__NVIC_DisableIRQ
+                0x00000ebc       0x24 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .text._ZL17yahal_assert_funcv
+                0x00000ee0        0x2 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .text._ZN11uart_msp4328uartModeEt
+                0x00000ee2       0xc0 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x00000ee2                uart_msp432::uartMode(unsigned short)
+ *fill*         0x00000fa2        0x2 
+ .text._ZN11uart_msp43211setBaudrateEm
+                0x00000fa4       0x18 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x00000fa4                uart_msp432::setBaudrate(unsigned long)
+ .text._ZN11uart_msp43213uartEnableIrqEv
+                0x00000fbc        0x8 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x00000fbc                uart_msp432::uartEnableIrq()
+ .text._ZN11uart_msp43214uartDisableIrqEv
+                0x00000fc4        0x8 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x00000fc4                uart_msp432::uartDisableIrq()
+ .text._ZN11uart_msp432D2Ev
+                0x00000fcc       0x58 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x00000fcc                uart_msp432::~uart_msp432()
+                0x00000fcc                uart_msp432::~uart_msp432()
+ .text._ZN11uart_msp432D0Ev
+                0x00001024       0x14 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x00001024                uart_msp432::~uart_msp432()
+ .text._Z41__static_initialization_and_destruction_0ii
+                0x00001038       0x5c YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .text.__tcf_0  0x00001094       0x20 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .text._ZN11uart_msp432C2EP12EUSCI_A_Typemt
+                0x000010b4       0x2c YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x000010b4                uart_msp432::uart_msp432(EUSCI_A_Type*, unsigned long, unsigned short)
+                0x000010b4                uart_msp432::uart_msp432(EUSCI_A_Type*, unsigned long, unsigned short)
+ .text._ZN11uart_msp4324initEv
+                0x000010e0       0xe4 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x000010e0                uart_msp432::init()
+ .text._ZN11uart_msp4329availableEv
+                0x000011c4       0x18 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x000011c4                uart_msp432::available()
+ .text._ZN11uart_msp4324getcEv
+                0x000011dc       0x1e YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x000011dc                uart_msp432::getc()
+ .text._ZN11uart_msp4324putcEc
+                0x000011fa       0x1e YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x000011fa                uart_msp432::putc(char)
+ .text._ZNSt8functionIFvcEEaSEDn
+                0x00001218       0x18 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x00001218                std::function<void (char)>::operator=(decltype(nullptr))
+ .text._ZN11uart_msp43213uartDetachIrqEv
+                0x00001230       0x34 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x00001230                uart_msp432::uartDetachIrq()
+ .text._ZNKSt8functionIFvcEEclEc
+                0x00001264       0x1e YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x00001264                std::function<void (char)>::operator()(char) const
+ *fill*         0x00001282        0x2 
+ .text._ZN11uart_msp4329handleIrqEP12EUSCI_A_Type
+                0x00001284       0x20 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x00001284                uart_msp432::handleIrq(EUSCI_A_Type*)
+ .text.EUSCIA0_UART_IRQHandler
+                0x000012a4       0x10 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x000012a4                EUSCIA0_UART_IRQHandler
+ .text.EUSCIA1_UART_IRQHandler
+                0x000012b4       0x10 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x000012b4                EUSCIA1_UART_IRQHandler
+ .text.EUSCIA2_UART_IRQHandler
+                0x000012c4       0x10 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x000012c4                EUSCIA2_UART_IRQHandler
+ .text.EUSCIA3_UART_IRQHandler
+                0x000012d4       0x10 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x000012d4                EUSCIA3_UART_IRQHandler
+ .text._ZNSt8functionIFvcEEC2ERKS1_
+                0x000012e4       0x24 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x000012e4                std::function<void (char)>::function(std::function<void (char)> const&)
+                0x000012e4                std::function<void (char)>::function(std::function<void (char)> const&)
+ .text._ZNSt8functionIFvcEE4swapERS1_
+                0x00001308       0x1c YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x00001308                std::function<void (char)>::swap(std::function<void (char)>&)
+ .text._ZNSt8functionIFvcEEaSERKS1_
+                0x00001324       0x20 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x00001324                std::function<void (char)>::operator=(std::function<void (char)> const&)
+ .text._ZN11uart_msp43213uartAttachIrqESt8functionIFvcEE
+                0x00001344       0x38 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x00001344                uart_msp432::uartAttachIrq(std::function<void (char)>)
+ .text._GLOBAL__sub_I_UART_CLK
+                0x0000137c        0xe YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ *fill*         0x0000138a        0x2 
+ .text.calculate_DCO_clock
+                0x0000138c       0xd4 YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+                0x0000138c                calculate_DCO_clock
+ .text.SystemCoreClockUpdate
+                0x00001460      0x168 YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+                0x00001460                SystemCoreClockUpdate
+ .text.SystemInit
+                0x000015c8      0x128 YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+                0x000015c8                SystemInit
+ .text.__yahal_bad_function_call
+                0x000016f0        0x2 YAHAL_servo\libYAHAL_servo.a(cpp_support.cpp.obj)
+                0x000016f0                std::__throw_bad_function_call()
+                0x000016f0                __yahal_bad_function_call
+ *fill*         0x000016f2        0x2 
+ .text._Z41__static_initialization_and_destruction_0ii
+                0x000016f4       0x28 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .text._read    0x0000171c       0x78 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+                0x0000171c                _read
+ .text._write   0x00001794      0x100 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+                0x00001794                _write
+ .text._close   0x00001894       0x24 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+                0x00001894                _close
+ .text._fstat   0x000018b8       0x24 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+                0x000018b8                _fstat
+ .text._lseek   0x000018dc       0x20 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+                0x000018dc                _lseek
+ .text._isatty  0x000018fc       0x2c YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+                0x000018fc                _isatty
+ .text._ZN8posix_io15register_stdoutER14uart_interfaceb
+                0x00001928       0x1c YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+                0x00001928                posix_io::register_stdout(uart_interface&, bool)
+ .text._GLOBAL__sub_I__ZN8posix_io4instE
+                0x00001944        0xe YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .text._ZN14irq_dispatcher7link_inEv
+                0x00001952        0x2 YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+                0x00001952                irq_dispatcher::link_in()
+ .text.Default_EUSCI_Handler
+                0x00001954        0x2 YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+                0x00001954                EUSCIA2_SPI_IRQHandler
+                0x00001954                EUSCIB0_I2C_IRQHandler
+                0x00001954                EUSCIB1_SPI_IRQHandler
+                0x00001954                EUSCIA3_SPI_IRQHandler
+                0x00001954                EUSCIA1_SPI_IRQHandler
+                0x00001954                EUSCIB2_I2C_IRQHandler
+                0x00001954                EUSCIB3_SPI_IRQHandler
+                0x00001954                EUSCIB0_SPI_IRQHandler
+                0x00001954                Default_EUSCI_Handler
+                0x00001954                EUSCIB1_I2C_IRQHandler
+                0x00001954                EUSCIB3_I2C_IRQHandler
+                0x00001954                EUSCIA0_SPI_IRQHandler
+                0x00001954                EUSCIB2_SPI_IRQHandler
+ *fill*         0x00001956        0x2 
+ .text.EUSCIA0_IRQHandler
+                0x00001958       0x1c YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+                0x00001958                EUSCIA0_IRQHandler
+ .text.EUSCIA1_IRQHandler
+                0x00001974       0x1c YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+                0x00001974                EUSCIA1_IRQHandler
+ .text.EUSCIA2_IRQHandler
+                0x00001990       0x1c YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+                0x00001990                EUSCIA2_IRQHandler
+ .text.EUSCIA3_IRQHandler
+                0x000019ac       0x1c YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+                0x000019ac                EUSCIA3_IRQHandler
+ .text.EUSCIB0_IRQHandler
+                0x000019c8       0x20 YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+                0x000019c8                EUSCIB0_IRQHandler
+ .text.EUSCIB1_IRQHandler
+                0x000019e8       0x20 YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+                0x000019e8                EUSCIB1_IRQHandler
+ .text.EUSCIB2_IRQHandler
+                0x00001a08       0x20 YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+                0x00001a08                EUSCIB2_IRQHandler
+ .text.EUSCIB3_IRQHandler
+                0x00001a28       0x20 YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+                0x00001a28                EUSCIB3_IRQHandler
+ .text.__aeabi_atexit
+                0x00001a48        0xa c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(atexit_arm.o)
+                0x00001a48                __aeabi_atexit
+ .text._ZdlPvj  0x00001a52        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+                0x00001a52                operator delete(void*, unsigned int)
+ .text._ZdlPv   0x00001a56        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+                0x00001a56                operator delete(void*)
+ *fill*         0x00001a5a        0x2 
+ .text.exit     0x00001a5c       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+                0x00001a5c                exit
+ .text.malloc   0x00001a80       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+                0x00001a80                malloc
+ .text.free     0x00001a90       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+                0x00001a90                free
+ .text.sbrk_aligned
+                0x00001aa0       0x44 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00001ae4       0xf0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x00001ae4                _malloc_r
+ .text.__malloc_lock
+                0x00001bd4        0xc c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+                0x00001bd4                __malloc_lock
+ .text.__malloc_unlock
+                0x00001be0        0xc c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+                0x00001be0                __malloc_unlock
+ .text.__cxa_atexit
+                0x00001bec       0x1c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-cxa_atexit.o)
+                0x00001bec                __cxa_atexit
+ .text.__sflush_r
+                0x00001c08      0x108 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+                0x00001c08                __sflush_r
+ .text._fflush_r
+                0x00001d10       0x50 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+                0x00001d10                _fflush_r
+ .text.fflush   0x00001d60       0x28 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+                0x00001d60                fflush
+ .text.std      0x00001d88       0x6c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00001df4       0x18 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00001e0c       0x40 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00001e4c       0x3c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00001e88        0xc c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x00001e88                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x00001e94        0xc c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x00001e94                __sfp_lock_release
+ .text.__sinit  0x00001ea0       0x30 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x00001ea0                __sinit
+ .text._fwalk_sglue
+                0x00001ed0       0x3c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+                0x00001ed0                _fwalk_sglue
+ .text.printf   0x00001f0c       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-printf.o)
+                0x00001f0c                iprintf
+                0x00001f0c                printf
+ .text.setvbuf  0x00001f30      0x168 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-setvbuf.o)
+                0x00001f30                setvbuf
+ .text.__sread  0x00002098       0x22 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+                0x00002098                __sread
+ .text.__swrite
+                0x000020ba       0x38 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+                0x000020ba                __swrite
+ .text.__sseek  0x000020f2       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+                0x000020f2                __sseek
+ .text.__sclose
+                0x00002116        0x8 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+                0x00002116                __sclose
+ .text.memset   0x0000211e       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+                0x0000211e                memset
+ *fill*         0x0000212e        0x2 
+ .text._close_r
+                0x00002130       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+                0x00002130                _close_r
+ .text._lseek_r
+                0x00002150       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+                0x00002150                _lseek_r
+ .text._read_r  0x00002174       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+                0x00002174                _read_r
+ .text._sbrk_r  0x00002198       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+                0x00002198                _sbrk_r
+ .text._write_r
+                0x000021b8       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+                0x000021b8                _write_r
+ .text.__errno  0x000021dc        0xc c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-errno.o)
+                0x000021dc                __errno
+ .text.__libc_init_array
+                0x000021e8       0x48 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+                0x000021e8                __libc_init_array
+ .text.__retarget_lock_init_recursive
+                0x00002230        0x2 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00002230                __retarget_lock_init_recursive
+ .text.__retarget_lock_acquire_recursive
+                0x00002232        0x2 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00002232                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x00002234        0x2 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00002234                __retarget_lock_release_recursive
+ *fill*         0x00002236        0x2 
+ .text._free_r  0x00002238       0x94 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+                0x00002238                _free_r
+ .text.__sfputc_r
+                0x000022cc       0x2e c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x000022fa       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+                0x000022fa                __sfputs_r
+ *fill*         0x0000231e        0x2 
+ .text._vfprintf_r
+                0x00002320      0x230 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+                0x00002320                _vfprintf_r
+                0x00002320                _vfiprintf_r
+ .text._printf_common
+                0x00002550       0xda c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                0x00002550                _printf_common
+ *fill*         0x0000262a        0x2 
+ .text._printf_i
+                0x0000262c      0x258 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                0x0000262c                _printf_i
+ .text.__swhatbuf_r
+                0x00002884       0x4c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-makebuf.o)
+                0x00002884                __swhatbuf_r
+ .text.__smakebuf_r
+                0x000028d0       0x78 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-makebuf.o)
+                0x000028d0                __smakebuf_r
+ .text.__swbuf_r
+                0x00002948       0x7c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-wbuf.o)
+                0x00002948                __swbuf_r
+ .text.__swsetup_r
+                0x000029c4       0xac c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-wsetup.o)
+                0x000029c4                __swsetup_r
+ .text._fstat_r
+                0x00002a70       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fstatr.o)
+                0x00002a70                _fstat_r
+ .text._isatty_r
+                0x00002a94       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-isattyr.o)
+                0x00002a94                _isatty_r
+ .text._sbrk    0x00002ab4       0x1c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+                0x00002ab4                _sbrk
+ .text._exit    0x00002ad0        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+                0x00002ad0                _exit
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.init)
+ .init          0x00002ad4        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+                0x00002ad4                _init
+ .init          0x00002ad8        0x8 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x00002ae0        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+                0x00002ae0                _fini
+ .fini          0x00002ae4        0x8 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+                0x00002aec                __preinit_array_start = .
+ *(.preinit_array*)
+                0x00002aec                __preinit_array_end = .
+                0x00002aec                __init_array_start = .
+ *(.init_array*)
+ .init_array    0x00002aec        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .init_array    0x00002af0        0x4 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .init_array    0x00002af4        0x4 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .init_array    0x00002af8        0x4 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .init_array    0x00002afc        0x4 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+                0x00002b00                __init_array_end = .
+                0x00002b00                __fini_array_start = .
+ *(.fini_array*)
+ .fini_array    0x00002b00        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x00002b04                __fini_array_end = .
+ .text          0x00002b04       0x7c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+                0x00002b04                _stack_init
+                0x00002b0c                _start
+                0x00002b0c                _mainCRTStartup
+ .text          0x00002b80       0xa0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memchr.o)
+                0x00002b80                memchr
+
+.glue_7         0x00002c20        0x0
+ .glue_7        0x00002c20        0x0 linker stubs
+
+.glue_7t        0x00002c20        0x0
+ .glue_7t       0x00002c20        0x0 linker stubs
+
+.vfp11_veneer   0x00002c20        0x0
+ .vfp11_veneer  0x00002c20        0x0 linker stubs
+
+.v4_bx          0x00002c20        0x0
+ .v4_bx         0x00002c20        0x0 linker stubs
+
+.iplt           0x00002c20        0x0
+ .iplt          0x00002c20        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ARM.extab      0x00002c20        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x00002c20        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+
+.ARM.exidx      0x00002c20        0x8
+                0x00002c20                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00002c20        0x8 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+                                 0x10 (size before relaxing)
+                0x00002c28                __exidx_end = .
+
+.rodata         0x00002c28      0x250
+ *(.rodata)
+ *(.rodata.*)
+ .rodata.main.str1.4
+                0x00002c28        0x4 CMakeFiles/servo.dir/servo.cpp.obj
+ .rodata._ZN12adc14_msp4327getModeEh.str1.4
+                0x00002c2c       0x52 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ *fill*         0x00002c7e        0x2 
+ .rodata._ZTV13adc_interface
+                0x00002c80       0x24 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+                0x00002c80                vtable for adc_interface
+ .rodata._ZTV12adc14_msp432
+                0x00002ca4       0x24 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+                0x00002ca4                vtable for adc14_msp432
+ .rodata._ZN11gpio_msp4328gpioReadEt.str1.4
+                0x00002cc8       0x51 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ *fill*         0x00002d19        0x3 
+ .rodata._ZTV14gpio_interface
+                0x00002d1c       0x30 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00002d1c                vtable for gpio_interface
+ .rodata._ZTV11gpio_msp432
+                0x00002d4c       0x30 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x00002d4c                vtable for gpio_msp432
+ .rodata._ZN11uart_msp4324initEv.str1.4
+                0x00002d7c       0x51 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ *fill*         0x00002dcd        0x3 
+ .rodata._ZTV14uart_interface
+                0x00002dd0       0x34 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x00002dd0                vtable for uart_interface
+ .rodata._ZTV11uart_msp432
+                0x00002e04       0x34 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x00002e04                vtable for uart_msp432
+ .rodata._write.str1.4
+                0x00002e38        0xd YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .rodata._vfprintf_r.str1.1
+                0x00002e45       0x11 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+ .rodata._printf_i.str1.1
+                0x00002e56       0x22 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+
+.eh_frame       0x00002e78        0x0
+ .eh_frame      0x00002e78        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rel.dyn        0x00002e78        0x0
+ .rel.iplt      0x00002e78        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.copy.table     0x00002e78        0xc
+                0x00002e78                . = ALIGN (0x8)
+                0x00002e78                __copy_table_start__ = .
+                0x00002e78        0x4 LONG 0x2e90 __data_load__
+                0x00002e7c        0x4 LONG 0x20000000 __data_start__
+                0x00002e80        0x4 LONG 0x90 (__data_end__ - __data_start__)
+                0x00002e84                __copy_table_end__ = .
+
+.zero.table     0x00002e84        0xc
+                0x00002e88                . = ALIGN (0x8)
+ *fill*         0x00002e84        0x4 
+                0x00002e88                __zero_table_start__ = .
+                0x00002e88        0x4 LONG 0x20000090 __bss_start__
+                0x00002e8c        0x4 LONG 0x69c (__bss_end__ - __bss_start__)
+                0x00002e90                __zero_table_end__ = .
+                0x00002e90                __etext = .
+
+.data           0x20000000       0x90 load address 0x00002e90
+                0x20000000                . = ALIGN (0x4)
+                0x00002e90                __data_load__ = LOADADDR (.data)
+                0x20000000                __data_start__ = .
+ *(.vtable)
+ *(.data*)
+ .data.__dso_handle
+                0x20000000        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x20000000                __dso_handle
+ .data.port_base
+                0x20000004       0x28 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x20000004                port_base
+ .data.SubsystemMasterClock
+                0x2000002c        0x4 YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+                0x2000002c                SubsystemMasterClock
+ .data.SystemCoreClock
+                0x20000030        0x4 YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+                0x20000030                SystemCoreClock
+ .data.__sglue  0x20000034        0xc c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x20000034                __sglue
+ .data._impure_ptr
+                0x20000040        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+                0x20000040                _impure_ptr
+ .data._impure_data
+                0x20000044       0x4c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+                0x20000044                _impure_data
+                0x20000090                . = ALIGN (0x4)
+                0x20000090                __data_end__ = .
+
+.tm_clone_table
+                0x20000090        0x0 load address 0x00002f20
+ .tm_clone_table
+                0x20000090        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .tm_clone_table
+                0x20000090        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+
+.igot.plt       0x20000090        0x0 load address 0x00002f20
+ .igot.plt      0x20000090        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.bss            0x20000090      0x69c load address 0x00002f20
+                0x20000090                . = ALIGN (0x4)
+                0x20000090                __bss_start__ = .
+ *(SORT_BY_ALIGNMENT(SORT_BY_NAME(.bss*)))
+ .bss.HfxtFrequency
+                0x20000090        0x4 YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+                0x20000090                HfxtFrequency
+ .bss.LfxtFrequency
+                0x20000094        0x4 YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+                0x20000094                LfxtFrequency
+ .bss.UART_CLK  0x20000098        0x4 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x20000098                UART_CLK
+ .bss._ZL17yahal_assert_file
+                0x2000009c        0x4 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .bss._ZL17yahal_assert_file
+                0x200000a0        0x4 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .bss._ZL17yahal_assert_file
+                0x200000a4        0x4 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .bss._ZL17yahal_assert_line
+                0x200000a8        0x4 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .bss._ZL17yahal_assert_line
+                0x200000ac        0x4 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .bss._ZL17yahal_assert_line
+                0x200000b0        0x4 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .bss._ZN11gpio_msp4324instE
+                0x200000b4      0x41c YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                0x200000b4                gpio_msp432::inst
+ .bss._ZN11uart_msp43211_intHandlerE
+                0x200004d0       0x40 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                0x200004d0                uart_msp432::_intHandler
+ .bss._ZN12adc14_msp4324instE
+                0x20000510       0xa0 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+                0x20000510                adc14_msp432::inst
+ .bss._ZN8posix_io4instE
+                0x200005b0       0x14 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+                0x200005b0                posix_io::inst
+ .bss.__malloc_free_list
+                0x200005c4        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x200005c4                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x200005c8        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x200005c8                __malloc_sbrk_start
+ .bss.__sf      0x200005cc      0x138 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x200005cc                __sf
+ .bss.__stdio_exit_handler
+                0x20000704        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x20000704                __stdio_exit_handler
+ .bss.errno     0x20000708        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+                0x20000708                errno
+ .bss.heap_end.0
+                0x2000070c        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .bss.object.0  0x20000710       0x18 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss.__lock___malloc_recursive_mutex
+                0x20000728        0x1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x20000728                __lock___malloc_recursive_mutex
+ .bss.__lock___sfp_recursive_mutex
+                0x20000729        0x1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x20000729                __lock___sfp_recursive_mutex
+ .bss.completed.1
+                0x2000072a        0x1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(COMMON)
+                0x2000072c                . = ALIGN (0x4)
+ *fill*         0x2000072b        0x1 
+                0x2000072c                __bss_end__ = .
+                0x2000072c                __end__ = .
+                0x2000072c                end = __end__
+
+.heap           0x2000072c        0x0 load address 0x00002f20
+                0x2000072c                __heap_start__ = .
+                0x2000072c                __HeapBase = .
+ *(.heap*)
+                0x2000072c                __heap_end__ = .
+                0x2000ffff                __HeapLimit = ((ORIGIN (RAM) + LENGTH (RAM)) - 0x1)
+
+.stack          0x20000730        0x0 load address 0x00002f20
+                0x20000730                _stack = .
+ *(.stack)
+                0x20010000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x20010000                PROVIDE (__stack = __StackTop)
+LOAD CMakeFiles/servo.dir/servo.cpp.obj
+LOAD YAHAL_servo\libYAHAL_servo.a
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a
+START GROUP
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a
+END GROUP
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(servo.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x22 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x00000022       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000056       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000076       0x34 CMakeFiles/servo.dir/servo.cpp.obj
+ .ARM.attributes
+                0x000000aa       0x34 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .ARM.attributes
+                0x000000de       0x34 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .ARM.attributes
+                0x00000112       0x34 YAHAL_servo\libYAHAL_servo.a(startup_msp432p401r_gcc.cpp.obj)
+ .ARM.attributes
+                0x00000146       0x34 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .ARM.attributes
+                0x0000017a       0x34 YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+ .ARM.attributes
+                0x000001ae       0x34 YAHAL_servo\libYAHAL_servo.a(cpp_support.cpp.obj)
+ .ARM.attributes
+                0x000001e2       0x34 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .ARM.attributes
+                0x00000216       0x34 YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+ .ARM.attributes
+                0x0000024a       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(atexit_arm.o)
+ .ARM.attributes
+                0x0000027e       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+ .ARM.attributes
+                0x000002b2       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+ .ARM.attributes
+                0x000002e6       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+ .ARM.attributes
+                0x0000031a       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .ARM.attributes
+                0x0000034e       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000382       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x000003b6       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-cxa_atexit.o)
+ .ARM.attributes
+                0x000003ea       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x0000041e       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x00000452       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000486       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-printf.o)
+ .ARM.attributes
+                0x000004ba       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-setvbuf.o)
+ .ARM.attributes
+                0x000004ee       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000522       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x00000556       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+ .ARM.attributes
+                0x0000058a       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x000005be       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x000005f2       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000626       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+ .ARM.attributes
+                0x0000065a       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x0000068e       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+ .ARM.attributes
+                0x000006c2       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-errno.o)
+ .ARM.attributes
+                0x000006f6       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x0000072a       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x0000075e       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000792       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+ .ARM.attributes
+                0x000007c6       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x000007fa       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-makebuf.o)
+ .ARM.attributes
+                0x0000082e       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-wbuf.o)
+ .ARM.attributes
+                0x00000862       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-wsetup.o)
+ .ARM.attributes
+                0x00000896       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fstatr.o)
+ .ARM.attributes
+                0x000008ca       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-isattyr.o)
+ .ARM.attributes
+                0x000008fe       0x1c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memchr.o)
+ .ARM.attributes
+                0x0000091a       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x0000094e       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000982       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x000009b6       0x22 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+
+.comment        0x00000000       0x45
+ .comment       0x00000000       0x45 CMakeFiles/servo.dir/servo.cpp.obj
+                                 0x46 (size before relaxing)
+ .comment       0x00000045       0x46 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .comment       0x00000045       0x46 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .comment       0x00000045       0x46 YAHAL_servo\libYAHAL_servo.a(startup_msp432p401r_gcc.cpp.obj)
+ .comment       0x00000045       0x46 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .comment       0x00000045       0x46 YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+ .comment       0x00000045       0x46 YAHAL_servo\libYAHAL_servo.a(cpp_support.cpp.obj)
+ .comment       0x00000045       0x46 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .comment       0x00000045       0x46 YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+
+.debug_line_str
+                0x00000000      0x1c4
+ .debug_line_str
+                0x00000000       0xe3 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .debug_line_str
+                0x000000e3       0xe1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memchr.o)
+
+.debug_info     0x00000000     0xb45f
+ .debug_info    0x00000000     0x1e01 CMakeFiles/servo.dir/servo.cpp.obj
+ .debug_info    0x00001e01     0x18c7 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .debug_info    0x000036c8     0x235b YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .debug_info    0x00005a23      0x2bd YAHAL_servo\libYAHAL_servo.a(startup_msp432p401r_gcc.cpp.obj)
+ .debug_info    0x00005ce0     0x248e YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .debug_info    0x0000816e     0x117c YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+ .debug_info    0x000092ea       0x39 YAHAL_servo\libYAHAL_servo.a(cpp_support.cpp.obj)
+ .debug_info    0x00009323     0x1d81 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .debug_info    0x0000b0a4      0x3bb YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+
+.debug_abbrev   0x00000000     0x254d
+ .debug_abbrev  0x00000000      0x5eb CMakeFiles/servo.dir/servo.cpp.obj
+ .debug_abbrev  0x000005eb      0x639 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .debug_abbrev  0x00000c24      0x7fa YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .debug_abbrev  0x0000141e      0x176 YAHAL_servo\libYAHAL_servo.a(startup_msp432p401r_gcc.cpp.obj)
+ .debug_abbrev  0x00001594      0x847 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .debug_abbrev  0x00001ddb      0x1db YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+ .debug_abbrev  0x00001fb6       0x29 YAHAL_servo\libYAHAL_servo.a(cpp_support.cpp.obj)
+ .debug_abbrev  0x00001fdf      0x48a YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .debug_abbrev  0x00002469       0xe4 YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+
+.debug_loc      0x00000000     0x1b61
+ .debug_loc     0x00000000       0x4c CMakeFiles/servo.dir/servo.cpp.obj
+ .debug_loc     0x0000004c      0x606 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .debug_loc     0x00000652      0x83f YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .debug_loc     0x00000e91       0x4c YAHAL_servo\libYAHAL_servo.a(startup_msp432p401r_gcc.cpp.obj)
+ .debug_loc     0x00000edd      0x5af YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .debug_loc     0x0000148c      0x10a YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+ .debug_loc     0x00001596      0x5cb YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+
+.debug_aranges  0x00000000      0x490
+ .debug_aranges
+                0x00000000       0x28 CMakeFiles/servo.dir/servo.cpp.obj
+ .debug_aranges
+                0x00000028       0xb8 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .debug_aranges
+                0x000000e0      0x110 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .debug_aranges
+                0x000001f0       0x28 YAHAL_servo\libYAHAL_servo.a(startup_msp432p401r_gcc.cpp.obj)
+ .debug_aranges
+                0x00000218      0x118 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .debug_aranges
+                0x00000330       0x30 YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+ .debug_aranges
+                0x00000360       0x20 YAHAL_servo\libYAHAL_servo.a(cpp_support.cpp.obj)
+ .debug_aranges
+                0x00000380       0xa8 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .debug_aranges
+                0x00000428       0x68 YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+
+.debug_ranges   0x00000000      0x460
+ .debug_ranges  0x00000000       0x18 CMakeFiles/servo.dir/servo.cpp.obj
+ .debug_ranges  0x00000018       0xc0 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .debug_ranges  0x000000d8      0x118 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .debug_ranges  0x000001f0       0x48 YAHAL_servo\libYAHAL_servo.a(startup_msp432p401r_gcc.cpp.obj)
+ .debug_ranges  0x00000238      0x108 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .debug_ranges  0x00000340       0x20 YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+ .debug_ranges  0x00000360       0x10 YAHAL_servo\libYAHAL_servo.a(cpp_support.cpp.obj)
+ .debug_ranges  0x00000370       0x98 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .debug_ranges  0x00000408       0x58 YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+
+.debug_line     0x00000000     0x3e3f
+ .debug_line    0x00000000      0x5c5 CMakeFiles/servo.dir/servo.cpp.obj
+ .debug_line    0x000005c5      0xad6 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .debug_line    0x0000109b      0xc8f YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .debug_line    0x00001d2a      0x26b YAHAL_servo\libYAHAL_servo.a(startup_msp432p401r_gcc.cpp.obj)
+ .debug_line    0x00001f95      0xc82 YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .debug_line    0x00002c17      0x587 YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+ .debug_line    0x0000319e       0x79 YAHAL_servo\libYAHAL_servo.a(cpp_support.cpp.obj)
+ .debug_line    0x00003217      0x908 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .debug_line    0x00003b1f      0x320 YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+
+.debug_str      0x00000000     0x3dec
+ .debug_str     0x00000000     0x12fe CMakeFiles/servo.dir/servo.cpp.obj
+                               0x151f (size before relaxing)
+ .debug_str     0x000012fe      0x92d YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+                                0xf07 (size before relaxing)
+ .debug_str     0x00001c2b      0x76b YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+                               0x163b (size before relaxing)
+ .debug_str     0x00002396      0x186 YAHAL_servo\libYAHAL_servo.a(startup_msp432p401r_gcc.cpp.obj)
+                                0x3c9 (size before relaxing)
+ .debug_str     0x0000251c      0x8cf YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+                               0x193a (size before relaxing)
+ .debug_str     0x00002deb      0x929 YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+                                0xcd7 (size before relaxing)
+ .debug_str     0x00003714       0x60 YAHAL_servo\libYAHAL_servo.a(cpp_support.cpp.obj)
+                                0x1e6 (size before relaxing)
+ .debug_str     0x00003774      0x531 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+                                0xe7a (size before relaxing)
+ .debug_str     0x00003ca5      0x147 YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+                                0x425 (size before relaxing)
+
+.debug_frame    0x00000000     0x14f8
+ .debug_frame   0x00000000       0x38 CMakeFiles/servo.dir/servo.cpp.obj
+ .debug_frame   0x00000038      0x1f8 YAHAL_servo\libYAHAL_servo.a(adc14_msp432.cpp.obj)
+ .debug_frame   0x00000230      0x320 YAHAL_servo\libYAHAL_servo.a(gpio_msp432.cpp.obj)
+ .debug_frame   0x00000550       0x38 YAHAL_servo\libYAHAL_servo.a(startup_msp432p401r_gcc.cpp.obj)
+ .debug_frame   0x00000588      0x30c YAHAL_servo\libYAHAL_servo.a(uart_msp432.cpp.obj)
+ .debug_frame   0x00000894       0x5c YAHAL_servo\libYAHAL_servo.a(system_msp432_gcc.cpp.obj)
+ .debug_frame   0x000008f0       0x20 YAHAL_servo\libYAHAL_servo.a(cpp_support.cpp.obj)
+ .debug_frame   0x00000910      0x1d0 YAHAL_servo\libYAHAL_servo.a(posix_io.cpp.obj)
+ .debug_frame   0x00000ae0       0xf0 YAHAL_servo\libYAHAL_servo.a(irq_dispatcher.cpp.obj)
+ .debug_frame   0x00000bd0       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(atexit_arm.o)
+ .debug_frame   0x00000bf0       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+ .debug_frame   0x00000c10       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+ .debug_frame   0x00000c30       0x28 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+ .debug_frame   0x00000c58       0x30 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .debug_frame   0x00000c88       0x4c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x00000cd4       0x30 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00000d04       0x28 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-cxa_atexit.o)
+ .debug_frame   0x00000d2c       0x5c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .debug_frame   0x00000d88      0x144 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .debug_frame   0x00000ecc       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .debug_frame   0x00000f00       0x6c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-printf.o)
+ .debug_frame   0x00000f6c       0x38 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-setvbuf.o)
+ .debug_frame   0x00000fa4       0x88 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .debug_frame   0x0000102c       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+ .debug_frame   0x0000104c       0x2c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+ .debug_frame   0x00001078       0x38 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+ .debug_frame   0x000010b0       0x2c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .debug_frame   0x000010dc       0x2c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+ .debug_frame   0x00001108       0x2c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x00001134       0x2c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+ .debug_frame   0x00001160       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-errno.o)
+ .debug_frame   0x00001180       0x2c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+ .debug_frame   0x000011ac       0xb0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .debug_frame   0x0000125c       0x38 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+ .debug_frame   0x00001294       0xa8 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+ .debug_frame   0x0000133c       0x60 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .debug_frame   0x0000139c       0x58 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-makebuf.o)
+ .debug_frame   0x000013f4       0x40 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-wbuf.o)
+ .debug_frame   0x00001434       0x2c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-wsetup.o)
+ .debug_frame   0x00001460       0x2c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fstatr.o)
+ .debug_frame   0x0000148c       0x2c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-isattyr.o)
+ .debug_frame   0x000014b8       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .debug_frame   0x000014d8       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)

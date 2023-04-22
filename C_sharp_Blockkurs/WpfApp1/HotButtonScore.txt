@@ -3,3 +3,4 @@ Spongebob Schwammkopf; 22
 Thaddäus Tentakel; 7
 Mr. Krabs; 20
 Sandy Cheeks; 57
+Unknown; 33

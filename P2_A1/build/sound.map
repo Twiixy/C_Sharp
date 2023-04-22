@@ -1,0 +1,1105 @@
+Archive member included to satisfy reference by file (symbol)
+
+YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                              CMakeFiles/sound.dir/sound.cpp.obj (gpio_msp432::inst)
+YAHAL_sound\libYAHAL_sound.a(startup_msp432p401r_gcc.cpp.obj)
+                              (Reset_Handler)
+YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                              CMakeFiles/sound.dir/sound.cpp.obj (timer_msp432::~timer_msp432())
+YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+                              YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj) (SystemCoreClock)
+YAHAL_sound\libYAHAL_sound.a(cpp_support.cpp.obj)
+                              YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj) (std::__throw_bad_function_call())
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(atexit_arm.o)
+                              YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj) (__aeabi_atexit)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+                              YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj) (operator delete(void*, unsigned int))
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o) (operator delete(void*))
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                              YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj) (__aeabi_dadd)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+                              YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj) (__aeabi_ddiv)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+                              CMakeFiles/sound.dir/sound.cpp.obj (__aeabi_d2uiz)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o (exit)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o) (free)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o) (_malloc_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o) (__malloc_lock)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-cxa_atexit.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(atexit_arm.o) (__cxa_atexit)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o) (__stdio_exit_handler)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o) (_fwalk_sglue)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o) (__sread)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o (memset)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o) (_close_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o) (errno)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o) (_impure_ptr)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o) (_lseek_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o) (_read_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o) (_write_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o) (_free_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-on_exit_args.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-cxa_atexit.o) (__on_exit_args)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o) (_fflush_r)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o) (_close)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o) (_lseek)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o) (_read)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o) (_sbrk)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o) (_write)
+c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+                              c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .group         0x00000000        0x8 CMakeFiles/sound.dir/sound.cpp.obj
+ .text          0x00000000        0x0 CMakeFiles/sound.dir/sound.cpp.obj
+ .data          0x00000000        0x0 CMakeFiles/sound.dir/sound.cpp.obj
+ .bss           0x00000000        0x0 CMakeFiles/sound.dir/sound.cpp.obj
+ .text._Z2f1Pv  0x00000000       0x10 CMakeFiles/sound.dir/sound.cpp.obj
+ .bss.next      0x00000000        0x1 CMakeFiles/sound.dir/sound.cpp.obj
+ .group         0x00000000        0x8 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .group         0x00000000       0x14 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .group         0x00000000        0x8 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .group         0x00000000        0x8 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .group         0x00000000        0x8 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .text          0x00000000        0x0 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .data          0x00000000        0x0 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .bss           0x00000000        0x0 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .text._ZNSt14_Function_baseD2Ev
+                0x00000000       0x12 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .text          0x00000000        0x0 YAHAL_sound\libYAHAL_sound.a(startup_msp432p401r_gcc.cpp.obj)
+ .data          0x00000000        0x0 YAHAL_sound\libYAHAL_sound.a(startup_msp432p401r_gcc.cpp.obj)
+ .bss           0x00000000        0x0 YAHAL_sound\libYAHAL_sound.a(startup_msp432p401r_gcc.cpp.obj)
+ .group         0x00000000        0x8 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .group         0x00000000        0x8 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .group         0x00000000        0x8 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .group         0x00000000        0xc YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .text          0x00000000        0x0 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .data          0x00000000        0x0 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .bss           0x00000000        0x0 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .text._ZNSt14_Function_baseD2Ev
+                0x00000000       0x12 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .text._ZN12timer_msp43213setNanoPeriodEmN5TIMER10timer_modeE
+                0x00000000       0x34 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .text._ZN12timer_msp43213getNanoPeriodEv
+                0x00000000        0x4 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .text._ZNKSt8functionIFvvEEclEv
+                0x00000000       0x10 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .text._ZNSt8functionIFvvEEC2ERKS1_
+                0x00000000       0x24 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .text._ZSt4swapISt9_Any_dataENSt9enable_ifIXsrSt6__and_IJSt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleIS5_ESt18is_move_assignableIS5_EEE5valueEvE4typeERS5_SF_
+                0x00000000       0x24 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .text._ZNSt8functionIFvvEE4swapERS1_
+                0x00000000       0x1c YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .text._ZNSt8functionIFvvEEaSERKS1_
+                0x00000000       0x20 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .text          0x00000000        0x0 YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+ .data          0x00000000        0x0 YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+ .bss           0x00000000        0x0 YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+ .text          0x00000000        0x0 YAHAL_sound\libYAHAL_sound.a(cpp_support.cpp.obj)
+ .data          0x00000000        0x0 YAHAL_sound\libYAHAL_sound.a(cpp_support.cpp.obj)
+ .bss           0x00000000        0x0 YAHAL_sound\libYAHAL_sound.a(cpp_support.cpp.obj)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(atexit_arm.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(atexit_arm.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(atexit_arm.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .text.malloc   0x00000000       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x44 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000       0xf0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x00000000        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-cxa_atexit.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-cxa_atexit.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-cxa_atexit.o)
+ .rodata.__cxa_atexit_dummy
+                0x00000000        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-cxa_atexit.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.std      0x00000000       0x6c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x18 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x40 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x18 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x18 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000       0x3c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000        0xc c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000        0xc c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xa4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x30 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x1c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x1c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x3c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .debug_frame   0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x22 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x38 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0x8 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .debug_frame   0x00000000       0x88 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+ .debug_frame   0x00000000       0x2c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xac c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+ .debug_frame   0x00000000       0x38 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+ .debug_frame   0x00000000       0x2c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+ .debug_frame   0x00000000       0x2c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-on_exit_args.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-on_exit_args.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-on_exit_args.o)
+ .rodata.__on_exit_args
+                0x00000000        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-on_exit_args.o)
+ .bss._on_exit_args_instance
+                0x00000000      0x108 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-on_exit_args.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-on_exit_args.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x108 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x50 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x28 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .debug_frame   0x00000000       0x5c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
+ .text._close   0x00000000       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
+ .gnu.warning._close
+                0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
+ .debug_frame   0x00000000       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
+ .text._lseek   0x00000000       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
+ .gnu.warning._lseek
+                0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
+ .debug_frame   0x00000000       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
+ .text._read    0x00000000       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
+ .gnu.warning._read
+                0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
+ .debug_frame   0x00000000       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .text._sbrk    0x00000000       0x1c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .bss.heap_end.0
+                0x00000000        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .debug_frame   0x00000000       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
+ .text._write   0x00000000       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
+ .gnu.warning._write
+                0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
+ .debug_frame   0x00000000       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00040000         xr
+RAM              0x20000000         0x00010000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+
+.text           0x00000000     0x1bbc
+ *(.intvecs)
+ .intvecs       0x00000000       0xe4 YAHAL_sound\libYAHAL_sound.a(startup_msp432p401r_gcc.cpp.obj)
+ *(.text.*)
+ .text.deregister_tm_clones
+                0x000000e4       0x1c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.register_tm_clones
+                0x00000100       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x00000124       0x28 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.frame_dummy
+                0x0000014c       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text._ZNSt17_Function_handlerIFvvEZ5delaydEUlvE_E9_M_invokeERKSt9_Any_data
+                0x00000170        0x8 CMakeFiles/sound.dir/sound.cpp.obj
+ .text._ZNSt17_Function_handlerIFvvEZ6delay2iiEUlvE_E9_M_invokeERKSt9_Any_data
+                0x00000178        0x8 CMakeFiles/sound.dir/sound.cpp.obj
+ .text._ZNSt14_Function_base13_Base_managerIZ5delaydEUlvE_E10_M_managerERSt9_Any_dataRKS3_St18_Manager_operation
+                0x00000180       0x1e CMakeFiles/sound.dir/sound.cpp.obj
+ .text._ZNSt17_Function_handlerIFvvEZ5delaydEUlvE_E10_M_managerERSt9_Any_dataRKS3_St18_Manager_operation
+                0x0000019e       0x14 CMakeFiles/sound.dir/sound.cpp.obj
+ .text._ZNSt14_Function_base13_Base_managerIZ6delay2iiEUlvE_E10_M_managerERSt9_Any_dataRKS3_St18_Manager_operation
+                0x000001b2       0x1e CMakeFiles/sound.dir/sound.cpp.obj
+ .text._ZNSt17_Function_handlerIFvvEZ6delay2iiEUlvE_E10_M_managerERSt9_Any_dataRKS3_St18_Manager_operation
+                0x000001d0       0x14 CMakeFiles/sound.dir/sound.cpp.obj
+ .text._ZNSt14_Function_baseD2Ev
+                0x000001e4       0x12 CMakeFiles/sound.dir/sound.cpp.obj
+                0x000001e4                std::_Function_base::~_Function_base()
+                0x000001e4                std::_Function_base::~_Function_base()
+ *fill*         0x000001f6        0x2 
+ .text._Z5delayd
+                0x000001f8       0x70 CMakeFiles/sound.dir/sound.cpp.obj
+                0x000001f8                delay(double)
+ .text._Z6delay2ii
+                0x00000268       0xbc CMakeFiles/sound.dir/sound.cpp.obj
+                0x00000268                delay2(int, int)
+ .text.main     0x00000324       0x90 CMakeFiles/sound.dir/sound.cpp.obj
+                0x00000324                main
+ .text.__NVIC_EnableIRQ
+                0x000003b4       0x1c YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .text._ZL17yahal_assert_funcv
+                0x000003d0        0x2 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ *fill*         0x000003d2        0x2 
+ .text._ZN11gpio_msp4328gpioReadEt
+                0x000003d4       0x48 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x000003d4                gpio_msp432::gpioRead(unsigned short)
+ .text._ZN11gpio_msp4329gpioWriteEtb
+                0x0000041c      0x148 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x0000041c                gpio_msp432::gpioWrite(unsigned short, bool)
+ .text._ZN11gpio_msp43210gpioToggleEt
+                0x00000564       0x50 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x00000564                gpio_msp432::gpioToggle(unsigned short)
+ .text._ZN11gpio_msp43213gpioEnableIrqEt
+                0x000005b4       0x60 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x000005b4                gpio_msp432::gpioEnableIrq(unsigned short)
+ .text._ZN11gpio_msp43214gpioDisableIrqEt
+                0x00000614       0x48 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x00000614                gpio_msp432::gpioDisableIrq(unsigned short)
+ .text._ZN11gpio_msp432D2Ev
+                0x0000065c       0x30 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x0000065c                gpio_msp432::~gpio_msp432()
+                0x0000065c                gpio_msp432::~gpio_msp432()
+ .text._ZN11gpio_msp432D0Ev
+                0x0000068c       0x16 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x0000068c                gpio_msp432::~gpio_msp432()
+ *fill*         0x000006a2        0x2 
+ .text._ZN11gpio_msp432C2Ev
+                0x000006a4       0x48 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x000006a4                gpio_msp432::gpio_msp432()
+                0x000006a4                gpio_msp432::gpio_msp432()
+ .text._Z41__static_initialization_and_destruction_0ii
+                0x000006ec       0x30 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .text._ZN11gpio_msp4326setSELEth
+                0x0000071c       0x58 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x0000071c                gpio_msp432::setSEL(unsigned short, unsigned char)
+ .text._ZN11gpio_msp4327setModeEtt
+                0x00000774      0x168 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x00000774                gpio_msp432::setMode(unsigned short, unsigned short)
+ .text._ZN11gpio_msp4328gpioModeEtt
+                0x000008dc       0x1a YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x000008dc                gpio_msp432::gpioMode(unsigned short, unsigned short)
+ .text._ZNSt8functionIFvvEEC2ERKS1_
+                0x000008f6       0x24 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x000008f6                std::function<void ()>::function(std::function<void ()> const&)
+                0x000008f6                std::function<void ()>::function(std::function<void ()> const&)
+ .text._ZNSt8functionIFvvEEaSEDn
+                0x0000091a       0x18 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x0000091a                std::function<void ()>::operator=(decltype(nullptr))
+ *fill*         0x00000932        0x2 
+ .text._ZN11gpio_msp43213gpioDetachIrqEt
+                0x00000934       0x4c YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x00000934                gpio_msp432::gpioDetachIrq(unsigned short)
+ .text._ZNKSt8functionIFvvEEclEv
+                0x00000980       0x10 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x00000980                std::function<void ()>::operator()() const
+ .text._ZN11gpio_msp4329handleIrqEhh
+                0x00000990       0x48 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x00000990                gpio_msp432::handleIrq(unsigned char, unsigned char)
+ .text.PORT1_IRQHandler
+                0x000009d8       0x24 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x000009d8                PORT1_IRQHandler
+ .text.PORT2_IRQHandler
+                0x000009fc       0x24 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x000009fc                PORT2_IRQHandler
+ .text.PORT3_IRQHandler
+                0x00000a20       0x24 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x00000a20                PORT3_IRQHandler
+ .text.PORT4_IRQHandler
+                0x00000a44       0x24 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x00000a44                PORT4_IRQHandler
+ .text.PORT5_IRQHandler
+                0x00000a68       0x28 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x00000a68                PORT5_IRQHandler
+ .text.PORT6_IRQHandler
+                0x00000a90       0x28 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x00000a90                PORT6_IRQHandler
+ .text._ZSt4swapISt9_Any_dataENSt9enable_ifIXsrSt6__and_IJSt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleIS5_ESt18is_move_assignableIS5_EEE5valueEvE4typeERS5_SF_
+                0x00000ab8       0x24 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x00000ab8                std::enable_if<std::__and_<std::__not_<std::__is_tuple_like<std::_Any_data> >, std::is_move_constructible<std::_Any_data>, std::is_move_assignable<std::_Any_data> >::value, void>::type std::swap<std::_Any_data>(std::_Any_data&, std::_Any_data&)
+ .text._ZNSt8functionIFvvEE4swapERS1_
+                0x00000adc       0x1c YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x00000adc                std::function<void ()>::swap(std::function<void ()>&)
+ .text._ZNSt8functionIFvvEEaSERKS1_
+                0x00000af8       0x20 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x00000af8                std::function<void ()>::operator=(std::function<void ()> const&)
+ .text._ZN11gpio_msp43213gpioAttachIrqEttSt8functionIFvvEE
+                0x00000b18       0xf8 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x00000b18                gpio_msp432::gpioAttachIrq(unsigned short, unsigned short, std::function<void ()>)
+ .text._GLOBAL__sub_I_port_base
+                0x00000c10        0xe YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .text.Default_Handler
+                0x00000c1e        0x2 YAHAL_sound\libYAHAL_sound.a(startup_msp432p401r_gcc.cpp.obj)
+                0x00000c1e                CS_IRQHandler
+                0x00000c1e                DebugMon_Handler
+                0x00000c1e                AES256_IRQHandler
+                0x00000c1e                HardFault_Handler
+                0x00000c1e                SysTick_Handler
+                0x00000c1e                PendSV_Handler
+                0x00000c1e                NMI_Handler
+                0x00000c1e                RTC_C_IRQHandler
+                0x00000c1e                FPU_IRQHandler
+                0x00000c1e                TA3_0_IRQHandler
+                0x00000c1e                UsageFault_Handler
+                0x00000c1e                DMA_INT3_IRQHandler
+                0x00000c1e                TA2_0_IRQHandler
+                0x00000c1e                DMA_INT1_IRQHandler
+                0x00000c1e                WDT_A_IRQHandler
+                0x00000c1e                TA2_N_IRQHandler
+                0x00000c1e                TA1_0_IRQHandler
+                0x00000c1e                PSS_IRQHandler
+                0x00000c1e                DMA_INT2_IRQHandler
+                0x00000c1e                EUSCIA3_IRQHandler
+                0x00000c1e                DMA_INT0_IRQHandler
+                0x00000c1e                EUSCIB0_IRQHandler
+                0x00000c1e                Default_Handler
+                0x00000c1e                T32_INTC_IRQHandler
+                0x00000c1e                TA3_N_IRQHandler
+                0x00000c1e                TA0_0_IRQHandler
+                0x00000c1e                EUSCIA2_IRQHandler
+                0x00000c1e                MemManage_Handler
+                0x00000c1e                SVC_Handler
+                0x00000c1e                TA1_N_IRQHandler
+                0x00000c1e                EUSCIA1_IRQHandler
+                0x00000c1e                COMP_E1_IRQHandler
+                0x00000c1e                EUSCIB2_IRQHandler
+                0x00000c1e                FLCTL_IRQHandler
+                0x00000c1e                EUSCIB3_IRQHandler
+                0x00000c1e                ADC14_IRQHandler
+                0x00000c1e                DMA_ERR_IRQHandler
+                0x00000c1e                EUSCIA0_IRQHandler
+                0x00000c1e                BusFault_Handler
+                0x00000c1e                PCM_IRQHandler
+                0x00000c1e                TA0_N_IRQHandler
+                0x00000c1e                COMP_E0_IRQHandler
+                0x00000c1e                EUSCIB1_IRQHandler
+ .text.Reset_Handler
+                0x00000c20       0x60 YAHAL_sound\libYAHAL_sound.a(startup_msp432p401r_gcc.cpp.obj)
+                0x00000c20                Reset_Handler
+ .text.__NVIC_EnableIRQ
+                0x00000c80       0x1c YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .text._ZN12timer_msp432D2Ev
+                0x00000c9c       0x18 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                0x00000c9c                timer_msp432::~timer_msp432()
+                0x00000c9c                timer_msp432::~timer_msp432()
+ .text._ZN12timer_msp4329setPeriodEmN5TIMER10timer_modeE
+                0x00000cb4       0x28 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                0x00000cb4                timer_msp432::setPeriod(unsigned long, TIMER::timer_mode)
+ .text._ZN12timer_msp4329getPeriodEv
+                0x00000cdc        0x4 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                0x00000cdc                timer_msp432::getPeriod()
+ .text._ZN12timer_msp4325startEv
+                0x00000ce0        0xc YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                0x00000ce0                timer_msp432::start()
+ .text._ZN12timer_msp4324stopEv
+                0x00000cec        0xc YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                0x00000cec                timer_msp432::stop()
+ .text._ZN12timer_msp4329isRunningEv
+                0x00000cf8        0xa YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                0x00000cf8                timer_msp432::isRunning()
+ .text._ZN12timer_msp43210getCounterEv
+                0x00000d02       0x10 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                0x00000d02                timer_msp432::getCounter()
+ .text._ZN12timer_msp43212resetCounterEv
+                0x00000d12        0x8 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                0x00000d12                timer_msp432::resetCounter()
+ .text._ZN12timer_msp432D0Ev
+                0x00000d1a       0x14 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                0x00000d1a                timer_msp432::~timer_msp432()
+ *fill*         0x00000d2e        0x2 
+ .text._Z41__static_initialization_and_destruction_0ii
+                0x00000d30       0x4c YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .text._ZNSt8functionIFvvEED2Ev
+                0x00000d7c        0xc YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                0x00000d7c                std::function<void ()>::~function()
+                0x00000d7c                std::function<void ()>::~function()
+ .text._ZN12timer_msp432C2EP12Timer32_Type
+                0x00000d88       0x7c YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                0x00000d88                timer_msp432::timer_msp432(Timer32_Type*)
+                0x00000d88                timer_msp432::timer_msp432(Timer32_Type*)
+ .text.T32_INT1_IRQHandler
+                0x00000e04       0x30 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                0x00000e04                T32_INT1_IRQHandler
+ .text.T32_INT2_IRQHandler
+                0x00000e34       0x30 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                0x00000e34                T32_INT2_IRQHandler
+ .text._ZN12timer_msp43211setCallbackESt8functionIFvvEE
+                0x00000e64       0x28 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                0x00000e64                timer_msp432::setCallback(std::function<void ()>)
+ .text._GLOBAL__sub_I__ZN12timer_msp43212_intHandler1E
+                0x00000e8c        0xe YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ *fill*         0x00000e9a        0x2 
+ .text.calculate_DCO_clock
+                0x00000e9c       0xd4 YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+                0x00000e9c                calculate_DCO_clock
+ .text.SystemCoreClockUpdate
+                0x00000f70      0x168 YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+                0x00000f70                SystemCoreClockUpdate
+ .text.SystemInit
+                0x000010d8       0xf4 YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+                0x000010d8                SystemInit
+ .text.__yahal_bad_function_call
+                0x000011cc        0x2 YAHAL_sound\libYAHAL_sound.a(cpp_support.cpp.obj)
+                0x000011cc                std::__throw_bad_function_call()
+                0x000011cc                __yahal_bad_function_call
+ .text.__aeabi_atexit
+                0x000011ce        0xa c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(atexit_arm.o)
+                0x000011ce                __aeabi_atexit
+ .text._ZdlPvj  0x000011d8        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+                0x000011d8                operator delete(void*, unsigned int)
+ .text._ZdlPv   0x000011dc        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+                0x000011dc                operator delete(void*)
+ .text.exit     0x000011e0       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+                0x000011e0                exit
+ .text.free     0x00001204       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+                0x00001204                free
+ .text.__malloc_lock
+                0x00001214        0xc c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+                0x00001214                __malloc_lock
+ .text.__malloc_unlock
+                0x00001220        0xc c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+                0x00001220                __malloc_unlock
+ .text.__cxa_atexit
+                0x0000122c       0x1c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-cxa_atexit.o)
+                0x0000122c                __cxa_atexit
+ .text.memset   0x00001248       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+                0x00001248                memset
+ .text.__libc_init_array
+                0x00001258       0x48 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+                0x00001258                __libc_init_array
+ .text.__retarget_lock_acquire_recursive
+                0x000012a0        0x2 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x000012a0                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x000012a2        0x2 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x000012a2                __retarget_lock_release_recursive
+ .text._free_r  0x000012a4       0x94 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+                0x000012a4                _free_r
+ .text._exit    0x00001338        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+                0x00001338                _exit
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.init)
+ .init          0x0000133c        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000133c                _init
+ .init          0x00001340        0x8 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x00001348        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+                0x00001348                _fini
+ .fini          0x0000134c        0x8 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+                0x00001354                __preinit_array_start = .
+ *(.preinit_array*)
+                0x00001354                __preinit_array_end = .
+                0x00001354                __init_array_start = .
+ *(.init_array*)
+ .init_array    0x00001354        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .init_array    0x00001358        0x4 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .init_array    0x0000135c        0x4 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                0x00001360                __init_array_end = .
+                0x00001360                __fini_array_start = .
+ *(.fini_array*)
+ .fini_array    0x00001360        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x00001364                __fini_array_end = .
+ .text          0x00001364       0x7c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+                0x00001364                _stack_init
+                0x0000136c                _start
+                0x0000136c                _mainCRTStartup
+ .text          0x000013e0      0x378 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                0x000013e0                __aeabi_drsub
+                0x000013e8                __aeabi_dsub
+                0x000013e8                __subdf3
+                0x000013ec                __aeabi_dadd
+                0x000013ec                __adddf3
+                0x00001664                __floatunsidf
+                0x00001664                __aeabi_ui2d
+                0x00001684                __floatsidf
+                0x00001684                __aeabi_i2d
+                0x000016a8                __aeabi_f2d
+                0x000016a8                __extendsfdf2
+                0x000016ec                __floatundidf
+                0x000016ec                __aeabi_ul2d
+                0x000016fc                __floatdidf
+                0x000016fc                __aeabi_l2d
+ .text          0x00001758      0x424 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+                0x00001758                __aeabi_dmul
+                0x00001758                __muldf3
+                0x000019ac                __divdf3
+                0x000019ac                __aeabi_ddiv
+ .text          0x00001b7c       0x40 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+                0x00001b7c                __aeabi_d2uiz
+                0x00001b7c                __fixunsdfsi
+
+.glue_7         0x00001bbc        0x0
+ .glue_7        0x00001bbc        0x0 linker stubs
+
+.glue_7t        0x00001bbc        0x0
+ .glue_7t       0x00001bbc        0x0 linker stubs
+
+.vfp11_veneer   0x00001bbc        0x0
+ .vfp11_veneer  0x00001bbc        0x0 linker stubs
+
+.v4_bx          0x00001bbc        0x0
+ .v4_bx         0x00001bbc        0x0 linker stubs
+
+.iplt           0x00001bbc        0x0
+ .iplt          0x00001bbc        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ARM.extab      0x00001bbc        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x00001bbc        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+
+.ARM.exidx      0x00001bbc        0x8
+                0x00001bbc                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00001bbc        0x8 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+                                 0x10 (size before relaxing)
+                0x00001bc4                __exidx_end = .
+
+.rodata         0x00001bc4      0x114
+ *(.rodata)
+ *(.rodata.*)
+ .rodata._ZN11gpio_msp4328gpioReadEt.str1.4
+                0x00001bc4       0x51 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ *fill*         0x00001c15        0x3 
+ .rodata._ZTV14gpio_interface
+                0x00001c18       0x30 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x00001c18                vtable for gpio_interface
+ .rodata._ZTV11gpio_msp432
+                0x00001c48       0x30 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x00001c48                vtable for gpio_msp432
+ .rodata._ZTV15timer_interface
+                0x00001c78       0x30 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                0x00001c78                vtable for timer_interface
+ .rodata._ZTV12timer_msp432
+                0x00001ca8       0x30 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                0x00001ca8                vtable for timer_msp432
+
+.eh_frame       0x00001cd8        0x0
+ .eh_frame      0x00001cd8        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rel.dyn        0x00001cd8        0x0
+ .rel.iplt      0x00001cd8        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.copy.table     0x00001cd8        0xc
+                0x00001cd8                . = ALIGN (0x8)
+                0x00001cd8                __copy_table_start__ = .
+                0x00001cd8        0x4 LONG 0x1cf0 __data_load__
+                0x00001cdc        0x4 LONG 0x20000000 __data_start__
+                0x00001ce0        0x4 LONG 0x84 (__data_end__ - __data_start__)
+                0x00001ce4                __copy_table_end__ = .
+
+.zero.table     0x00001ce4        0xc
+                0x00001ce8                . = ALIGN (0x8)
+ *fill*         0x00001ce4        0x4 
+                0x00001ce8                __zero_table_start__ = .
+                0x00001ce8        0x4 LONG 0x20000084 __bss_start__
+                0x00001cec        0x4 LONG 0x5a8 (__bss_end__ - __bss_start__)
+                0x00001cf0                __zero_table_end__ = .
+                0x00001cf0                __etext = .
+
+.data           0x20000000       0x84 load address 0x00001cf0
+                0x20000000                . = ALIGN (0x4)
+                0x00001cf0                __data_load__ = LOADADDR (.data)
+                0x20000000                __data_start__ = .
+ *(.vtable)
+ *(.data*)
+ .data.__dso_handle
+                0x20000000        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x20000000                __dso_handle
+ .data.port_base
+                0x20000004       0x28 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x20000004                port_base
+ .data.SubsystemMasterClock
+                0x2000002c        0x4 YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+                0x2000002c                SubsystemMasterClock
+ .data.SystemCoreClock
+                0x20000030        0x4 YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+                0x20000030                SystemCoreClock
+ .data._impure_ptr
+                0x20000034        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+                0x20000034                _impure_ptr
+ .data._impure_data
+                0x20000038       0x4c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+                0x20000038                _impure_data
+                0x20000084                . = ALIGN (0x4)
+                0x20000084                __data_end__ = .
+
+.tm_clone_table
+                0x20000084        0x0 load address 0x00001d74
+ .tm_clone_table
+                0x20000084        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .tm_clone_table
+                0x20000084        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+
+.igot.plt       0x20000084        0x0 load address 0x00001d74
+ .igot.plt      0x20000084        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.bss            0x20000084      0x5a8 load address 0x00001d74
+                0x20000084                . = ALIGN (0x4)
+                0x20000084                __bss_start__ = .
+ *(SORT_BY_ALIGNMENT(SORT_BY_NAME(.bss*)))
+ .bss.HfxtFrequency
+                0x20000084        0x4 YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+                0x20000084                HfxtFrequency
+ .bss.LfxtFrequency
+                0x20000088        0x4 YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+                0x20000088                LfxtFrequency
+ .bss._ZL17yahal_assert_file
+                0x2000008c        0x4 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .bss._ZL17yahal_assert_line
+                0x20000090        0x4 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .bss._ZN11gpio_msp4324instE
+                0x20000094      0x41c YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                0x20000094                gpio_msp432::inst
+ .bss._ZN12timer_msp43212_intHandler1E
+                0x200004b0       0x10 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                0x200004b0                timer_msp432::_intHandler1
+ .bss._ZN12timer_msp43212_intHandler2E
+                0x200004c0       0x10 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                0x200004c0                timer_msp432::_intHandler2
+ .bss.__malloc_free_list
+                0x200004d0        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x200004d0                __malloc_free_list
+ .bss.__sf      0x200004d4      0x138 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x200004d4                __sf
+ .bss.__stdio_exit_handler
+                0x2000060c        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x2000060c                __stdio_exit_handler
+ .bss.object.0  0x20000610       0x18 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss.__lock___malloc_recursive_mutex
+                0x20000628        0x1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x20000628                __lock___malloc_recursive_mutex
+ .bss.completed.1
+                0x20000629        0x1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(COMMON)
+                0x2000062c                . = ALIGN (0x4)
+ *fill*         0x2000062a        0x2 
+                0x2000062c                __bss_end__ = .
+                0x2000062c                __end__ = .
+                0x2000062c                end = __end__
+
+.heap           0x2000062c        0x0 load address 0x00001d74
+                0x2000062c                __heap_start__ = .
+                0x2000062c                __HeapBase = .
+ *(.heap*)
+                0x2000062c                __heap_end__ = .
+                0x2000ffff                __HeapLimit = ((ORIGIN (RAM) + LENGTH (RAM)) - 0x1)
+
+.stack          0x20000630        0x0 load address 0x00001d78
+                0x20000630                _stack = .
+ *(.stack)
+                0x20010000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x20010000                PROVIDE (__stack = __StackTop)
+LOAD CMakeFiles/sound.dir/sound.cpp.obj
+LOAD YAHAL_sound\libYAHAL_sound.a
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a
+START GROUP
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a
+END GROUP
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(sound.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x22 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x00000022       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000056       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000076       0x34 CMakeFiles/sound.dir/sound.cpp.obj
+ .ARM.attributes
+                0x000000aa       0x34 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .ARM.attributes
+                0x000000de       0x34 YAHAL_sound\libYAHAL_sound.a(startup_msp432p401r_gcc.cpp.obj)
+ .ARM.attributes
+                0x00000112       0x34 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .ARM.attributes
+                0x00000146       0x34 YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+ .ARM.attributes
+                0x0000017a       0x34 YAHAL_sound\libYAHAL_sound.a(cpp_support.cpp.obj)
+ .ARM.attributes
+                0x000001ae       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(atexit_arm.o)
+ .ARM.attributes
+                0x000001e2       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+ .ARM.attributes
+                0x00000216       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+ .ARM.attributes
+                0x0000024a       0x22 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000026c       0x22 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000028e       0x22 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x000002b0       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+ .ARM.attributes
+                0x000002e4       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .ARM.attributes
+                0x00000318       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x0000034c       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000380       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-cxa_atexit.o)
+ .ARM.attributes
+                0x000003b4       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x000003e8       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x0000041c       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000450       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x00000484       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x000004b8       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x000004ec       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000520       0x34 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x00000554       0x22 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+
+.comment        0x00000000       0x45
+ .comment       0x00000000       0x45 CMakeFiles/sound.dir/sound.cpp.obj
+                                 0x46 (size before relaxing)
+ .comment       0x00000045       0x46 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .comment       0x00000045       0x46 YAHAL_sound\libYAHAL_sound.a(startup_msp432p401r_gcc.cpp.obj)
+ .comment       0x00000045       0x46 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .comment       0x00000045       0x46 YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+ .comment       0x00000045       0x46 YAHAL_sound\libYAHAL_sound.a(cpp_support.cpp.obj)
+
+.debug_line_str
+                0x00000000      0x1b1
+ .debug_line_str
+                0x00000000       0xe3 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .debug_line_str
+                0x000000e3       0xce c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_line_str
+                0x000001b1       0xce c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .debug_line_str
+                0x000001b1       0xce c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+
+.debug_info     0x00000000     0x7d04
+ .debug_info    0x00000000     0x2cf9 CMakeFiles/sound.dir/sound.cpp.obj
+ .debug_info    0x00002cf9     0x235b YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .debug_info    0x00005054      0x2bd YAHAL_sound\libYAHAL_sound.a(startup_msp432p401r_gcc.cpp.obj)
+ .debug_info    0x00005311     0x1c0e YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .debug_info    0x00006f1f      0xdac YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+ .debug_info    0x00007ccb       0x39 YAHAL_sound\libYAHAL_sound.a(cpp_support.cpp.obj)
+
+.debug_abbrev   0x00000000     0x1bdf
+ .debug_abbrev  0x00000000      0x8f8 CMakeFiles/sound.dir/sound.cpp.obj
+ .debug_abbrev  0x000008f8      0x7fa YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .debug_abbrev  0x000010f2      0x176 YAHAL_sound\libYAHAL_sound.a(startup_msp432p401r_gcc.cpp.obj)
+ .debug_abbrev  0x00001268      0x773 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .debug_abbrev  0x000019db      0x1db YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+ .debug_abbrev  0x00001bb6       0x29 YAHAL_sound\libYAHAL_sound.a(cpp_support.cpp.obj)
+
+.debug_loc      0x00000000      0xf8c
+ .debug_loc     0x00000000      0x2a3 CMakeFiles/sound.dir/sound.cpp.obj
+ .debug_loc     0x000002a3      0x83f YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .debug_loc     0x00000ae2       0x4c YAHAL_sound\libYAHAL_sound.a(startup_msp432p401r_gcc.cpp.obj)
+ .debug_loc     0x00000b2e      0x354 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .debug_loc     0x00000e82      0x10a YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+
+.debug_aranges  0x00000000      0x2d8
+ .debug_aranges
+                0x00000000       0x70 CMakeFiles/sound.dir/sound.cpp.obj
+ .debug_aranges
+                0x00000070      0x110 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .debug_aranges
+                0x00000180       0x28 YAHAL_sound\libYAHAL_sound.a(startup_msp432p401r_gcc.cpp.obj)
+ .debug_aranges
+                0x000001a8       0xe0 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .debug_aranges
+                0x00000288       0x30 YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+ .debug_aranges
+                0x000002b8       0x20 YAHAL_sound\libYAHAL_sound.a(cpp_support.cpp.obj)
+
+.debug_ranges   0x00000000      0x2c0
+ .debug_ranges  0x00000000       0x60 CMakeFiles/sound.dir/sound.cpp.obj
+ .debug_ranges  0x00000060      0x118 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .debug_ranges  0x00000178       0x48 YAHAL_sound\libYAHAL_sound.a(startup_msp432p401r_gcc.cpp.obj)
+ .debug_ranges  0x000001c0       0xd0 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .debug_ranges  0x00000290       0x20 YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+ .debug_ranges  0x000002b0       0x10 YAHAL_sound\libYAHAL_sound.a(cpp_support.cpp.obj)
+
+.debug_line     0x00000000     0x264f
+ .debug_line    0x00000000      0x81c CMakeFiles/sound.dir/sound.cpp.obj
+ .debug_line    0x0000081c      0xc8f YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .debug_line    0x000014ab      0x26b YAHAL_sound\libYAHAL_sound.a(startup_msp432p401r_gcc.cpp.obj)
+ .debug_line    0x00001716      0x96d YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .debug_line    0x00002083      0x553 YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+ .debug_line    0x000025d6       0x79 YAHAL_sound\libYAHAL_sound.a(cpp_support.cpp.obj)
+
+.debug_str      0x00000000     0x2eb0
+ .debug_str     0x00000000     0x1669 CMakeFiles/sound.dir/sound.cpp.obj
+                               0x18b6 (size before relaxing)
+ .debug_str     0x00001669      0xb00 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+                               0x163b (size before relaxing)
+ .debug_str     0x00002169      0x181 YAHAL_sound\libYAHAL_sound.a(startup_msp432p401r_gcc.cpp.obj)
+                                0x3c9 (size before relaxing)
+ .debug_str     0x000022ea      0x4d4 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+                               0x1513 (size before relaxing)
+ .debug_str     0x000027be      0x692 YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+                                0x9fa (size before relaxing)
+ .debug_str     0x00002e50       0x60 YAHAL_sound\libYAHAL_sound.a(cpp_support.cpp.obj)
+                                0x1e6 (size before relaxing)
+
+.debug_frame    0x00000000      0xc24
+ .debug_frame   0x00000000      0x114 CMakeFiles/sound.dir/sound.cpp.obj
+ .debug_frame   0x00000114      0x320 YAHAL_sound\libYAHAL_sound.a(gpio_msp432.cpp.obj)
+ .debug_frame   0x00000434       0x38 YAHAL_sound\libYAHAL_sound.a(startup_msp432p401r_gcc.cpp.obj)
+ .debug_frame   0x0000046c      0x228 YAHAL_sound\libYAHAL_sound.a(timer_msp432.cpp.obj)
+ .debug_frame   0x00000694       0x5c YAHAL_sound\libYAHAL_sound.a(system_msp432_gcc.cpp.obj)
+ .debug_frame   0x000006f0       0x20 YAHAL_sound\libYAHAL_sound.a(cpp_support.cpp.obj)
+ .debug_frame   0x00000710       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(atexit_arm.o)
+ .debug_frame   0x00000730       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+ .debug_frame   0x00000750       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+ .debug_frame   0x00000770       0xac c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000081c       0x50 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x0000086c       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .debug_frame   0x00000890       0x28 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+ .debug_frame   0x000008b8       0x30 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .debug_frame   0x000008e8       0x4c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x00000934       0x30 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00000964       0x28 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-cxa_atexit.o)
+ .debug_frame   0x0000098c      0x144 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .debug_frame   0x00000ad0       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+ .debug_frame   0x00000af0       0x2c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+ .debug_frame   0x00000b1c       0xb0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .debug_frame   0x00000bcc       0x38 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+ .debug_frame   0x00000c04       0x20 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)

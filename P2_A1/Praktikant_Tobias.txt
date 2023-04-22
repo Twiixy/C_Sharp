@@ -1,0 +1,62 @@
+-Datentypen
+-Arrays
+-Schleifen
+-In- und Output (Syso & Scanner)
+-Datentypen umwandlung (int) und Integer.parseInt("")
+	-AsciiTabelle kennengelernt
+-try catch
+-String funktionen (contains, toLowerCase, substring, split, length)
+-Klassenstruktur (Sichtbarkeit, Attribute, Konstruktor, Methoden, Polymorphie)
+-Zahlendarstellungen (Dezimal, Binär, Hexa, Oktal) 
+	-Umrechnung in die jeweils andere Darstellung
+	-Addition von Binärzahlen (2erKomplement)
+-In Scope (Geltungsbereich von Variablen)
+-Wie speichert ein Rechner Daten?
+	-Register (FlipFlops)
+	-Binärzahlen -> 2^4 = Hexa = Speicheradressen
+-Bedeutung von static 
+-Konzept für folgene Aufgabe überlegt: (Eine abgeschwächte Variante, weil er nur 4 Tage da ist)
+Szenario:
+Ihr Arbeitsgeber möchte Währungen von Euro, Dollar und Pfund in die jeweils andere Währung umrechnen.
+Da die Eingaben sowohl von Menschen als auch von Maschinen getätigt werden, werden die Zahlensysteme
+unterschiedlich dargestellt (Hexadezimal, Binär, Oktal und Dezimal). Damit die Umgerechnete Währung für
+Menschen lesbarer wird, verlangt der Chef ein Programm, welches die Zahlensysteme in Dezimal umwandelt und
+anschließend in einer Textdatei speichert.
+	-UML-Klassendiagramm erstellt
+	-Umrechnung Klasse erstellt mit folgenden Methoden
+		-Konstuktor der entscheides, ob es sich um eine Binär oder Dezimalzahl handelt
+		-bin2dez Methode 
+		-dez2bin Methode 
+		-bin2Hex Methode 
+		-dez2Hex Methode 
+-Generics anhand von ArrayList erklärt
+-Wrapper-Klassen in java
+-Hotkeys (Strg+Linksklick, Strg+Pfeiltaste, Strg+shift+f, Strg+shift+c, etc.)
+-Allgemeine Erklärung zu Algorithmen und Laufkomplexität (O-Notation)
+-Vor- und Nachteile von rekursion (speicher, dauer)
+-Vererbung (extends, interface, abstract)
+-Git File Status Lifecycle implementiert
+        -Eine abstracte Basisklasse Stage
+        -4 Stages (Untracked, Staged, Committed und Modified) die von der Basisklasse erben
+         und mit unterschiedlichen Konsoleneingaben (z.B. add) in andere Stages kommen
+-Github Account erstellt und Befehle kennengelernt (add,commit,merge,fetch,push,checkout,status)
+-Projektvorstellung: Emails im IdM verschicken
+-Tägliche Aufgaben gezeigt (Tickets, Kalenderpflege)
+
+ToDos:
+Bei meiner Projektvorstellung habe ich kurz SQL verfahren wie Transaktionen und Bedingungen gezeigt.
+Wenn du willst kannst du ihn die Dinge etwas näher erklären und Aufgaben dazu gestalten.
+Außerdem habe ich ihn kurz gezeigt, dass Container wie z.B. die Map beliebig kompliziert werden können:
+Dictionary<Guid, List<Dictionary<string, string>>> map = ...
+-SQL Aufgaben
+-Interfaces näher bringen
+-Projektvorstellung
+-Java Container zeigen
+-Lambda
+-File lesen/schreiben
+-Threads
+-Aufgaben zu Generics, damit er selber Klassen damit erstellen kann.
+
+		
+
+	
